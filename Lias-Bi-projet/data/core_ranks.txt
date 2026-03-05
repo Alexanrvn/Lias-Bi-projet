@@ -1,0 +1,8 @@
+Title;Acronym;Rank
+International Conference on Very Large Data Bases;VLDB;A*
+IEEE Real-Time Systems Symposium;RTSS;A*
+Euromicro Conference on Real-Time Systems;ECRTS;A
+International Conference on Database and Expert Systems Applications;DEXA;B
+International Conference on Conceptual Modeling;ER;A
+International Conference on Extending Database Technology;EDBT;A
+International Conference on Real-Time Networks and Systems;RTNS;B

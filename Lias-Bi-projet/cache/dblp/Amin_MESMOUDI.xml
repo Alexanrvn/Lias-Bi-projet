@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<dblpperson name="S. Robinet" pid="135/2099" n="1">
+<person key="homepages/135/2099" mdate="2013-09-27">
+<author pid="135/2099">S. Robinet</author>
+</person>
+<r><inproceedings key="conf/isscc/RobinetGD08" mdate="2017-05-17">
+<author pid="135/2099">S. Robinet</author>
+<author pid="135/1961">B. Gomez</author>
+<author pid="39/3371">N. Delorme</author>
+<title>A CMOS-SOI 2.45GHz Remote-Powered Sensor Tag.</title>
+<pages>286-287</pages>
+<year>2008</year>
+<booktitle>ISSCC</booktitle>
+<ee>https://doi.org/10.1109/ISSCC.2008.4523169</ee>
+<crossref>conf/isscc/2008</crossref>
+<url>db/conf/isscc/isscc2008.html#RobinetGD08</url>
+</inproceedings>
+</r>
+<coauthors n="2" nc="1">
+<co c="0"><na f="d/Delorme:N=" pid="39/3371">N. Delorme</na></co>
+<co c="0"><na f="g/Gomez:B=" pid="135/1961">B. Gomez</na></co>
+</coauthors>
+</dblpperson>
+

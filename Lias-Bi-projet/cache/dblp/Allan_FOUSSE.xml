@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<dblpperson name="Lisa Warren" pid="203/6127" n="1">
+<person key="homepages/203/6127" mdate="2017-07-27">
+<author pid="203/6127">Lisa Warren</author>
+</person>
+<r><inproceedings key="conf/mmvr/HuLTCW07" mdate="2017-07-27">
+<author pid="88/5536">John Hu</author>
+<author pid="11/578">Yi-Je Lim</author>
+<author pid="90/1817">Neil Tardella</author>
+<author pid="14/2215">Chu-Yin Chang</author>
+<author pid="203/6127">Lisa Warren</author>
+<title>Localized Virtual Patient Model for Regional Anesthesia Simulation Training System.</title>
+<pages>185-190</pages>
+<year>2007</year>
+<booktitle>MMVR</booktitle>
+<ee>http://ebooks.iospress.nl/volumearticle/10742</ee>
+<crossref>conf/mmvr/2007</crossref>
+<url>db/conf/mmvr/mmvr2007.html#HuLTCW07</url>
+</inproceedings>
+</r>
+<coauthors n="4" nc="1">
+<co c="0"><na f="c/Chang:Chu=Yin" pid="14/2215">Chu-Yin Chang</na></co>
+<co c="0"><na f="h/Hu:John" pid="88/5536">John Hu</na></co>
+<co c="0"><na f="l/Lim:Yi=Je" pid="11/578">Yi-Je Lim</na></co>
+<co c="0"><na f="t/Tardella:Neil" pid="90/1817">Neil Tardella</na></co>
+</coauthors>
+</dblpperson>
+

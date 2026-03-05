@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<dblpperson name="William S. Millar" pid="60/6439" n="3">
+<person key="homepages/60/6439" mdate="2009-06-10">
+<author pid="60/6439">William S. Millar</author>
+</person>
+<r><article key="journals/jbi/TulipanoTMZKXYCLF07" mdate="2021-02-16">
+<author pid="10/4429">P. Karina Tulipano</author>
+<author pid="85/6162">Ying Tao</author>
+<author pid="60/6439">William S. Millar</author>
+<author pid="24/6942">Pat Zanzonico</author>
+<author pid="03/3884">Katherine Kolbert</author>
+<author pid="31/4114-1">Hua Xu 0001</author>
+<author pid="55/6749-1">Hong Yu 0001</author>
+<author pid="89/4508">Lifeng Chen</author>
+<author orcid="0000-0001-9854-1005" pid="45/1590">Yves A. Lussier</author>
+<author pid="68/6061">Carol Friedman</author>
+<title>Natural language processing and visualization in the molecular imaging domain.</title>
+<pages>270-281</pages>
+<year>2007</year>
+<volume>40</volume>
+<journal>J. Biomed. Informatics</journal>
+<number>3</number>
+<ee type="oa">https://doi.org/10.1016/j.jbi.2006.08.002</ee>
+<ee>https://www.wikidata.org/entity/Q33262693</ee>
+<url>db/journals/jbi/jbi40.html#TulipanoTMZKXYCLF07</url>
+</article>
+</r>
+<r><inproceedings key="conf/psb/TulipanoMC03" mdate="2020-03-12">
+<author pid="10/4429">P. Karina Tulipano</author>
+<author pid="60/6439">William S. Millar</author>
+<author pid="12/3644">James J. Cimino</author>
+<title>Linking Molecular Imaging Terminology to the Gene Ontology (GO).</title>
+<pages>613-623</pages>
+<year>2003</year>
+<crossref>conf/psb/2003</crossref>
+<booktitle>Pacific Symposium on Biocomputing</booktitle>
+<ee type="oa">http://psb.stanford.edu/psb-online/proceedings/psb03/tulipano.pdf</ee>
+<url>db/conf/psb/psb2003.html#TulipanoMC03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bildmed/HahnMDKP02" mdate="2012-03-31">
+<author pid="87/4973">Horst K. Hahn</author>
+<author pid="60/6439">William S. Millar</author>
+<author pid="75/2668">Maureen S. Durkin</author>
+<author pid="90/3295">Olaf Klinghammer</author>
+<author pid="78/3206">Heinz-Otto Peitgen</author>
+<title>Cerebral Ventricular Volumetry in Pediatric Neuroimaging.</title>
+<pages>59-62</pages>
+<year>2002</year>
+<crossref>conf/bildmed/2002</crossref>
+<booktitle>Bildverarbeitung f&#252;r die Medizin</booktitle>
+<url>db/conf/bildmed/bildmed2002.html#HahnMDKP02</url>
+</inproceedings>
+</r>
+<coauthors n="14" nc="2">
+<co c="0"><na f="c/Chen:Lifeng" pid="89/4508">Lifeng Chen</na></co>
+<co c="0"><na f="c/Cimino:James_J=" pid="12/3644">James J. Cimino</na></co>
+<co c="1"><na f="d/Durkin:Maureen_S=" pid="75/2668">Maureen S. Durkin</na></co>
+<co c="0"><na f="f/Friedman:Carol" pid="68/6061">Carol Friedman</na></co>
+<co c="1"><na f="h/Hahn:Horst_K=" pid="87/4973">Horst K. Hahn</na></co>
+<co c="1"><na f="k/Klinghammer:Olaf" pid="90/3295">Olaf Klinghammer</na></co>
+<co c="0"><na f="k/Kolbert:Katherine" pid="03/3884">Katherine Kolbert</na></co>
+<co c="0"><na f="l/Lussier:Yves_A=" pid="45/1590">Yves A. Lussier</na></co>
+<co c="1"><na f="p/Peitgen:Heinz=Otto" pid="78/3206">Heinz-Otto Peitgen</na></co>
+<co c="0"><na f="t/Tao:Ying" pid="85/6162">Ying Tao</na></co>
+<co c="0"><na f="t/Tulipano:P=_Karina" pid="10/4429">P. Karina Tulipano</na></co>
+<co c="0"><na f="x/Xu_0001:Hua" pid="31/4114-1">Hua Xu 0001</na></co>
+<co c="0"><na f="y/Yu_0001:Hong" pid="55/6749-1">Hong Yu 0001</na></co>
+<co c="0"><na f="z/Zanzonico:Pat" pid="24/6942">Pat Zanzonico</na></co>
+</coauthors>
+</dblpperson>
+

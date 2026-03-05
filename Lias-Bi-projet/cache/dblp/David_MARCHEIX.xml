@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<dblpperson name="Nitish K. Mishra" pid="61/8247" n="4">
+<person key="homepages/61/8247" mdate="2010-07-01">
+<author pid="61/8247">Nitish K. Mishra</author>
+</person>
+<r><article key="journals/bmcbi/LataMR10" mdate="2020-03-15">
+<author pid="00/7107">Sneh Lata</author>
+<author pid="61/8247">Nitish K. Mishra</author>
+<author orcid="0000-0002-8902-2876" pid="43/5459">Gajendra P. S. Raghava</author>
+<title>AntiBP2: improved version of antibacterial peptide prediction.</title>
+<pages>19</pages>
+<year>2010</year>
+<volume>11</volume>
+<journal>BMC Bioinform.</journal>
+<number>S-1</number>
+<ee type="oa">https://doi.org/10.1186/1471-2105-11-S1-S19</ee>
+<ee>https://www.wikidata.org/entity/Q33528189</ee>
+<url>db/journals/bmcbi/bmcbi11S.html#LataMR10</url>
+</article>
+</r>
+<r><article key="journals/bmcbi/MishraR10" mdate="2020-03-15">
+<author pid="61/8247">Nitish K. Mishra</author>
+<author orcid="0000-0002-8902-2876" pid="43/5459">Gajendra P. S. Raghava</author>
+<title>Prediction of FAD interacting residues in a protein from its primary sequence using evolutionary information.</title>
+<pages>48</pages>
+<year>2010</year>
+<volume>11</volume>
+<journal>BMC Bioinform.</journal>
+<number>S-1</number>
+<ee type="oa">https://doi.org/10.1186/1471-2105-11-S1-S48</ee>
+<ee>https://www.wikidata.org/entity/Q24622495</ee>
+<url>db/journals/bmcbi/bmcbi11S.html#MishraR10</url>
+</article>
+</r>
+<r><article key="journals/bmcbi/ChauhanMR10" mdate="2020-03-15">
+<author pid="78/11252">Jagat Singh Chauhan</author>
+<author pid="61/8247">Nitish K. Mishra</author>
+<author orcid="0000-0002-8902-2876" pid="43/5459">Gajendra P. S. Raghava</author>
+<title>Prediction of GTP interacting residues, dipeptides and tripeptides in a protein from its evolutionary information.</title>
+<pages>301</pages>
+<year>2010</year>
+<volume>11</volume>
+<journal>BMC Bioinform.</journal>
+<ee type="oa">https://doi.org/10.1186/1471-2105-11-301</ee>
+<ee>https://www.wikidata.org/entity/Q24632947</ee>
+<url>db/journals/bmcbi/bmcbi11.html#ChauhanMR10</url>
+</article>
+</r>
+<r><article key="journals/bmcbi/ChauhanMR09" mdate="2020-03-15">
+<author pid="78/11252">Jagat Singh Chauhan</author>
+<author pid="61/8247">Nitish K. Mishra</author>
+<author orcid="0000-0002-8902-2876" pid="43/5459">Gajendra P. S. Raghava</author>
+<title>Identification of ATP binding residues of a protein from its primary sequence.</title>
+<pages>434</pages>
+<year>2009</year>
+<volume>10</volume>
+<journal>BMC Bioinform.</journal>
+<ee type="oa">https://doi.org/10.1186/1471-2105-10-434</ee>
+<ee>https://www.wikidata.org/entity/Q24649016</ee>
+<url>db/journals/bmcbi/bmcbi10.html#ChauhanMR09</url>
+</article>
+</r>
+<coauthors n="3" nc="1">
+<co c="0"><na f="c/Chauhan:Jagat_Singh" pid="78/11252">Jagat Singh Chauhan</na></co>
+<co c="0"><na f="l/Lata:Sneh" pid="00/7107">Sneh Lata</na></co>
+<co c="0"><na f="r/Raghava:Gajendra_P=_S=" pid="43/5459">Gajendra P. S. Raghava</na></co>
+</coauthors>
+</dblpperson>
+

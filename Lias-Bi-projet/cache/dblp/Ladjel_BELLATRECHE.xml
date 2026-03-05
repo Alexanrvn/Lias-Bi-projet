@@ -1,0 +1,1018 @@
+<?xml version="1.0"?>
+<dblpperson name="Jan F. M. Van Impe" pid="21/2703" n="62">
+<person key="homepages/21/2703" mdate="2025-07-21">
+<author pid="21/2703">Jan F. M. Van Impe</author>
+<url>https://orcid.org/0000-0002-5904-1638</url>
+<url>https://www.wikidata.org/entity/Q87951761</url>
+<url>https://mathgenealogy.org/id.php?id=97314</url>
+<url>https://d-nb.info/gnd/1284756890</url>
+<url>https://id.loc.gov/authorities/names/n97104200</url>
+</person>
+<r><article key="journals/bioinformatics/MoresBLI25" mdate="2026-02-01">
+<author pid="337/6546">Wannes Mores</author>
+<author orcid="0000-0001-9734-4122" pid="202/3829">Satyajeet S. Bhonsale</author>
+<author pid="69/8133">Filip Logist</author>
+<author pid="21/2703">Jan F. M. Van Impe</author>
+<title>Accelerated enumeration of extreme rays through a positive-definite elementarity test.</title>
+<year>2025</year>
+<volume>41</volume>
+<journal>Bioinform.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.1093/bioinformatics/btae723</ee>
+<url>db/journals/bioinformatics/bioinformatics41.html#MoresBLI25</url>
+</article>
+</r>
+<r><article key="journals/ploscb/HashemWI25" mdate="2025-11-02">
+<author orcid="0000-0002-2710-8025" pid="337/6771">Ihab Hashem</author>
+<author orcid="0000-0002-2113-7415" pid="39/449">Jian Wang</author>
+<author orcid="0000-0002-5904-1638" pid="21/2703">Jan F. M. Van Impe</author>
+<title>A Discretized Overlap Resolution Algorithm (DORA) for resolving spatial overlaps in individual-based models of microbes.</title>
+<pages>1012974</pages>
+<year>2025</year>
+<volume>21</volume>
+<journal>PLoS Comput. Biol.</journal>
+<number>4</number>
+<ee type="oa">https://doi.org/10.1371/journal.pcbi.1012974</ee>
+<ee>https://www.wikidata.org/entity/Q134301004</ee>
+<url>db/journals/ploscb/ploscb21.html#HashemWI25</url>
+<stream>streams/journals/ploscb</stream>
+</article>
+</r>
+<r><article key="journals/cea/KatsiniLBRGVAPI24" mdate="2025-08-05">
+<author orcid="0000-0002-7637-1188" pid="384/1767">Lydia Katsini</author>
+<author orcid="0000-0002-3162-7581" pid="211/3162">Carlos Andr&#233; Mu&#241;oz L&#243;pez</author>
+<author orcid="0000-0001-9734-4122" pid="202/3829">Satyajeet S. Bhonsale</author>
+<author orcid="0000-0002-9720-8953" pid="384/1703">Styliani Roufou</author>
+<author pid="384/1524">Sholeem Griffin</author>
+<author pid="384/1780">Vasilis Valdramidis</author>
+<author orcid="0000-0003-2904-0439" pid="384/1777">Simen Akkermans</author>
+<author pid="384/1500">Monika Polanska</author>
+<author pid="21/2703">Jan F. M. Van Impe</author>
+<title>Modeling climatic effects on milk production.</title>
+<pages>109218</pages>
+<year>2024</year>
+<volume>225</volume>
+<journal>Comput. Electron. Agric.</journal>
+<ee>https://doi.org/10.1016/j.compag.2024.109218</ee>
+<url>db/journals/cea/cea225.html#KatsiniLBRGVAPI24</url>
+<stream>streams/journals/cea</stream>
+</article>
+</r>
+<r><article key="journals/cce/MoresNHBI23" mdate="2025-03-03">
+<author orcid="0000-0001-7640-3779" pid="337/6546">Wannes Mores</author>
+<author orcid="0000-0002-2086-7694" pid="187/9608">Philippe Nimmegeers</author>
+<author orcid="0000-0002-2710-8025" pid="337/6771">Ihab Hashem</author>
+<author orcid="0000-0001-9734-4122" pid="202/3829">Satyajeet S. Bhonsale</author>
+<author orcid="0000-0002-5904-1638" pid="21/2703">Jan F. M. Van Impe</author>
+<title>Multi-objective optimization under parametric uncertainty: A Pareto ellipsoids-based algorithm.</title>
+<pages>108099</pages>
+<year>2023</year>
+<volume>169</volume>
+<journal>Comput. Chem. Eng.</journal>
+<ee>https://doi.org/10.1016/j.compchemeng.2022.108099</ee>
+<url>db/journals/cce/cce169.html#MoresNHBI23</url>
+</article>
+</r>
+<r><article key="journals/complexity/HashemBI22" mdate="2025-03-03">
+<author orcid="0000-0002-2710-8025" pid="337/6771">Ihab Hashem</author>
+<author orcid="0000-0002-9328-9872" pid="89/6277">V. De Buck</author>
+<author orcid="0000-0002-5904-1638" pid="21/2703">Jan F. M. Van Impe</author>
+<title>Dynamics of Positive Frequency Dependent Selection Triggers Selection for Silence.</title>
+<pages>6625709:1-6625709:11</pages>
+<year>2022</year>
+<volume>2022</volume>
+<journal>Complex.</journal>
+<ee type="oa">https://doi.org/10.1155/2022/6625709</ee>
+<url>db/journals/complexity/complexity2022.html#HashemBI22</url>
+</article>
+</r>
+<r><article key="journals/cce/BhonsaleSI20" mdate="2021-04-09">
+<author orcid="0000-0001-9734-4122" pid="202/3829">Satyajeet S. Bhonsale</author>
+<author pid="278/6308">Bard Stokbroekx</author>
+<author pid="21/2703">Jan F. M. Van Impe</author>
+<title>Assessment of the parameter identifiability of population balance models for air jet mills.</title>
+<pages>107056</pages>
+<year>2020</year>
+<volume>143</volume>
+<journal>Comput. Chem. Eng.</journal>
+<ee>https://doi.org/10.1016/j.compchemeng.2020.107056</ee>
+<url>db/journals/cce/cce143.html#BhonsaleSI20</url>
+</article>
+</r>
+<r><article key="journals/complexity/WouwerBIV19" mdate="2023-08-28">
+<author orcid="0000-0001-7022-6126" pid="78/8923">Alain Vande Wouwer</author>
+<author orcid="0000-0003-0423-1933" pid="96/5582">Philippe Bogaerts</author>
+<author pid="21/2703">Jan F. M. Van Impe</author>
+<author pid="73/8412">Alejandro Vargas</author>
+<title>Mathematical Modeling and Dynamic Analysis of Complex Biological Systems.</title>
+<pages>4858423:1-4858423:2</pages>
+<year>2019</year>
+<volume>2019</volume>
+<journal>Complex.</journal>
+<ee type="oa">https://doi.org/10.1155/2019/4858423</ee>
+<ee>https://www.wikidata.org/entity/Q113758377</ee>
+<url>db/journals/complexity/complexity2019.html#WouwerBIV19</url>
+</article>
+</r>
+<r><article key="journals/cce/LopezTNCLI18" mdate="2020-10-26">
+<author orcid="0000-0002-3162-7581" pid="211/3162">Carlos Andr&#233; Mu&#241;oz L&#243;pez</author>
+<author pid="154/2652">Dries Telen</author>
+<author orcid="0000-0002-2086-7694" pid="187/9608">Philippe Nimmegeers</author>
+<author pid="179/9861">Lorenzo Cabianca</author>
+<author orcid="0000-0001-8621-7531" pid="69/8133">Filip Logist</author>
+<author pid="21/2703">Jan F. M. Van Impe</author>
+<title>A process simulator interface for multiobjective optimization of chemical processes.</title>
+<pages>119-137</pages>
+<year>2018</year>
+<volume>109</volume>
+<journal>Comput. Chem. Eng.</journal>
+<ee>https://doi.org/10.1016/j.compchemeng.2017.09.014</ee>
+<url>db/journals/cce/cce109.html#LopezTNCLI18</url>
+</article>
+</r>
+<r><article key="journals/complexity/HashemTNI18" mdate="2025-03-03">
+<author orcid="0000-0002-2710-8025" pid="337/6771">Ihab Hashem</author>
+<author pid="154/2652">Dries Telen</author>
+<author orcid="0000-0002-2086-7694" pid="187/9608">Philippe Nimmegeers</author>
+<author orcid="0000-0002-5904-1638" pid="21/2703">Jan F. M. Van Impe</author>
+<title>The Silent Cooperator: An Epigenetic Model for Emergence of Altruistic Traits in Biological Systems.</title>
+<pages>2082037:1-2082037:16</pages>
+<year>2018</year>
+<volume>2018</volume>
+<journal>Complex.</journal>
+<ee type="oa">https://doi.org/10.1155/2018/2082037</ee>
+<ee>https://www.wikidata.org/entity/Q115786838</ee>
+<url>db/journals/complexity/complexity2018.html#HashemTNI18</url>
+</article>
+</r>
+<r><article key="journals/qre/ImpeAPG18" mdate="2020-07-09">
+<author pid="21/2703">Jan F. M. Van Impe</author>
+<author pid="213/8986">Klaas Augustinus</author>
+<author orcid="0000-0003-4210-0643" pid="213/8904">Michiel De Prins</author>
+<author pid="50/5893">Geert Gins</author>
+<title>Advance warning for loss of separation in an industrial distillation column.</title>
+<pages>116-135</pages>
+<year>2018</year>
+<volume>34</volume>
+<journal>Qual. Reliab. Eng. Int.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1002/qre.2222</ee>
+<url>db/journals/qre/qre34.html#ImpeAPG18</url>
+</article>
+</r>
+<r><article key="journals/cce/HashemTNLI17" mdate="2025-03-03">
+<author orcid="0000-0002-2710-8025" pid="337/6771">Ihab Hashem</author>
+<author pid="154/2652">Dries Telen</author>
+<author orcid="0000-0002-2086-7694" pid="187/9608">Philippe Nimmegeers</author>
+<author orcid="0000-0001-8621-7531" pid="69/8133">Filip Logist</author>
+<author pid="21/2703">Jan F. M. Van Impe</author>
+<title>A novel algorithm for fast representation of a Pareto front with adaptive resolution: Application to multi-objective optimization of a chemical reactor.</title>
+<pages>544-558</pages>
+<year>2017</year>
+<volume>106</volume>
+<journal>Comput. Chem. Eng.</journal>
+<ee>https://doi.org/10.1016/j.compchemeng.2017.06.020</ee>
+<url>db/journals/cce/cce106.html#HashemTNLI17</url>
+</article>
+</r>
+<r><article key="journals/envsoft/KrollWWIW17" mdate="2023-09-25">
+<author orcid="0000-0002-3397-2426" pid="204/6389">Stefan Kroll</author>
+<author pid="201/9068">T. Wambecq</author>
+<author pid="201/8797">M. Weemaes</author>
+<author pid="21/2703">Jan F. M. Van Impe</author>
+<author pid="09/7682">Patrick Willems</author>
+<title>Semi-automated buildup and calibration of conceptual sewer models.</title>
+<pages>344-355</pages>
+<year>2017</year>
+<volume>93</volume>
+<journal>Environ. Model. Softw.</journal>
+<ee>https://doi.org/10.1016/j.envsoft.2017.02.030</ee>
+<url>db/journals/envsoft/envsoft93.html#KrollWWIW17</url>
+</article>
+</r>
+<r><article key="journals/siamco/HouskaTLI17" mdate="2020-07-09">
+<author pid="06/7857">Boris Houska</author>
+<author pid="154/2652">Dries Telen</author>
+<author orcid="0000-0001-8621-7531" pid="69/8133">Filip Logist</author>
+<author pid="21/2703">Jan F. M. Van Impe</author>
+<title>Self-Reflective Model Predictive Control.</title>
+<pages>2959-2980</pages>
+<year>2017</year>
+<volume>55</volume>
+<journal>SIAM J. Control. Optim.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1137/15M1049865</ee>
+<url>db/journals/siamco/siamco55.html#HouskaTLI17</url>
+</article>
+</r>
+<r><article key="journals/bmcsb/NimmegeersTLI16" mdate="2020-10-26">
+<author orcid="0000-0002-2086-7694" pid="187/9608">Philippe Nimmegeers</author>
+<author pid="154/2652">Dries Telen</author>
+<author orcid="0000-0001-8621-7531" pid="69/8133">Filip Logist</author>
+<author pid="21/2703">Jan F. M. Van Impe</author>
+<title>Dynamic optimization of biological networks under parametric uncertainty.</title>
+<pages>86</pages>
+<year>2016</year>
+<volume>10</volume>
+<journal>BMC Syst. Biol.</journal>
+<ee type="oa">https://doi.org/10.1186/s12918-016-0328-6</ee>
+<ee>https://www.wikidata.org/entity/Q36118759</ee>
+<url>db/journals/bmcsb/bmcsb10.html#NimmegeersTLI16</url>
+</article>
+</r>
+<r><article key="journals/cce/StamatiLAFI16" mdate="2025-03-04">
+<author pid="257/8057">Ioanna Stamati</author>
+<author orcid="0000-0001-8621-7531" pid="69/8133">Filip Logist</author>
+<author orcid="0000-0003-2904-0439" pid="384/1777">Simen Akkermans</author>
+<author pid="176/7770">E. Noriega Fern&#225;ndez</author>
+<author pid="21/2703">Jan F. M. Van Impe</author>
+<title>On the effect of sampling rate and experimental noise in the discrimination between microbial growth models in the suboptimal temperature range.</title>
+<pages>84-93</pages>
+<year>2016</year>
+<volume>85</volume>
+<journal>Comput. Chem. Eng.</journal>
+<ee>https://doi.org/10.1016/j.compchemeng.2015.10.005</ee>
+<url>db/journals/cce/cce85.html#StamatiLAFI16</url>
+</article>
+</r>
+<r><article key="journals/cce/TelenHLI16" mdate="2020-05-18">
+<author pid="154/2652">Dries Telen</author>
+<author orcid="0000-0002-6761-239X" pid="06/7857">Boris Houska</author>
+<author orcid="0000-0001-8621-7531" pid="69/8133">Filip Logist</author>
+<author pid="21/2703">Jan F. M. Van Impe</author>
+<title>Multi-purpose economic optimal experiment design applied to model based optimal control.</title>
+<pages>212-220</pages>
+<year>2016</year>
+<volume>94</volume>
+<journal>Comput. Chem. Eng.</journal>
+<ee>https://doi.org/10.1016/j.compchemeng.2016.07.004</ee>
+<url>db/journals/cce/cce94.html#TelenHLI16</url>
+</article>
+</r>
+<r><inproceedings key="conf/amcc/TelenVBLI16" mdate="2024-10-06">
+<author pid="154/2652">Dries Telen</author>
+<author orcid="0000-0003-0669-1108" pid="69/11194">Mattia Vallerio</author>
+<author orcid="0000-0001-9734-4122" pid="202/3829">Satyajeet S. Bhonsale</author>
+<author orcid="0000-0001-8621-7531" pid="69/8133">Filip Logist</author>
+<author pid="21/2703">Jan F. M. Van Impe</author>
+<title>Towards nonlinear model predictive control with integrated experiment design.</title>
+<pages>942-947</pages>
+<year>2016</year>
+<booktitle>ACC</booktitle>
+<ee>https://doi.org/10.1109/ACC.2016.7525036</ee>
+<crossref>conf/amcc/2016</crossref>
+<url>db/conf/amcc/acc2016.html#TelenVBLI16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/amcc/NimmegeersTBLI16" mdate="2020-10-25">
+<author orcid="0000-0002-2086-7694" pid="187/9608">Philippe Nimmegeers</author>
+<author pid="154/2652">Dries Telen</author>
+<author pid="202/3869">Mickey Beetens</author>
+<author orcid="0000-0001-8621-7531" pid="69/8133">Filip Logist</author>
+<author pid="21/2703">Jan F. M. Van Impe</author>
+<title>Parametric uncertainty propagation for robust dynamic optimization of biological networks.</title>
+<pages>6929-6934</pages>
+<year>2016</year>
+<booktitle>ACC</booktitle>
+<ee>https://doi.org/10.1109/ACC.2016.7526764</ee>
+<crossref>conf/amcc/2016</crossref>
+<url>db/conf/amcc/acc2016.html#NimmegeersTBLI16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/incdm/GinsWZI16" mdate="2017-05-19">
+<author pid="50/5893">Geert Gins</author>
+<author pid="181/9434">Sam Wuyts</author>
+<author pid="181/9400">Sander Van den Zegel</author>
+<author pid="21/2703">Jan F. M. Van Impe</author>
+<title>Extending Process Monitoring to Simultaneous False Alarm Rejection and Fault Identification (FARFI).</title>
+<pages>334-348</pages>
+<year>2016</year>
+<booktitle>ICDM</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-41561-1_25</ee>
+<crossref>conf/incdm/2016</crossref>
+<url>db/conf/incdm/incdm2016.html#GinsWZI16</url>
+</inproceedings>
+</r>
+<r><article key="journals/automatica/HouskaTLDI15" mdate="2020-02-20">
+<author orcid="0000-0002-6761-239X" pid="06/7857">Boris Houska</author>
+<author pid="154/2652">Dries Telen</author>
+<author orcid="0000-0001-8621-7531" pid="69/8133">Filip Logist</author>
+<author pid="64/134">Moritz Diehl</author>
+<author pid="21/2703">Jan F. M. Van Impe</author>
+<title>An economic objective for the optimal experiment design of nonlinear dynamic processes.</title>
+<pages>98-103</pages>
+<year>2015</year>
+<volume>51</volume>
+<journal>Autom.</journal>
+<ee>https://doi.org/10.1016/j.automatica.2014.10.100</ee>
+<url>db/journals/automatica/automatica51.html#HouskaTLDI15</url>
+</article>
+</r>
+<r><article key="journals/cce/VallerioVIL15" mdate="2024-10-06">
+<author orcid="0000-0003-0669-1108" pid="69/11194">Mattia Vallerio</author>
+<author pid="154/2483">Dominique Vercammen</author>
+<author pid="21/2703">Jan F. M. Van Impe</author>
+<author orcid="0000-0001-8621-7531" pid="69/8133">Filip Logist</author>
+<title>Interactive NBI and (E)NNC methods for the progressive exploration of the criteria space in multi-objective optimization and optimal control.</title>
+<pages>186-201</pages>
+<year>2015</year>
+<volume>82</volume>
+<journal>Comput. Chem. Eng.</journal>
+<ee>https://doi.org/10.1016/j.compchemeng.2015.07.004</ee>
+<url>db/journals/cce/cce82.html#VallerioVIL15</url>
+</article>
+</r>
+<r><article key="journals/eswa/VallerioHIL15" mdate="2024-10-06">
+<author orcid="0000-0003-0669-1108" pid="69/11194">Mattia Vallerio</author>
+<author pid="167/2007">Jan Hufkens</author>
+<author pid="21/2703">Jan F. M. Van Impe</author>
+<author orcid="0000-0001-8621-7531" pid="69/8133">Filip Logist</author>
+<title>An interactive decision-support system for multi-objective optimization of nonlinear dynamic processes with uncertainty.</title>
+<pages>7710-7731</pages>
+<year>2015</year>
+<volume>42</volume>
+<journal>Expert Syst. Appl.</journal>
+<number>21</number>
+<ee>https://doi.org/10.1016/j.eswa.2015.05.038</ee>
+<url>db/journals/eswa/eswa42.html#VallerioHIL15</url>
+</article>
+</r>
+<r><article key="journals/sensors/BenavidesMHMVIW15" mdate="2024-10-06">
+<author orcid="0009-0006-6184-046X" pid="179/9988">Micaela Benavides</author>
+<author pid="186/8694">Johan Mailier</author>
+<author orcid="0000-0002-2185-2566" pid="78/10493">Anne-Lise Hantson</author>
+<author pid="186/8686">Gerardo Mu&#241;oz</author>
+<author orcid="0000-0002-6889-2610" pid="73/8412">Alejandro Vargas</author>
+<author pid="21/2703">Jan F. M. Van Impe</author>
+<author pid="78/8923">Alain Vande Wouwer</author>
+<title>Design and Test of a Low-Cost RGB Sensor for Online Measurement of Microalgae Concentration within a Photo-Bioreactor.</title>
+<pages>4766-4780</pages>
+<year>2015</year>
+<volume>15</volume>
+<journal>Sensors</journal>
+<number>3</number>
+<ee type="oa">https://doi.org/10.3390/s150304766</ee>
+<ee>https://www.wikidata.org/entity/Q35617770</ee>
+<url>db/journals/sensors/sensors15.html#BenavidesMHMVIW15</url>
+</article>
+</r>
+<r><inproceedings key="conf/eucc/TelenVCHIL15" mdate="2024-10-06">
+<author pid="154/2652">Dries Telen</author>
+<author orcid="0000-0003-0669-1108" pid="69/11194">Mattia Vallerio</author>
+<author pid="179/9861">Lorenzo Cabianca</author>
+<author orcid="0000-0002-6761-239X" pid="06/7857">Boris Houska</author>
+<author pid="21/2703">Jan F. M. Van Impe</author>
+<author orcid="0000-0001-8621-7531" pid="69/8133">Filip Logist</author>
+<title>Approximate robust optimal control of nonlinear dynamic systems under process noise.</title>
+<pages>1581-1586</pages>
+<year>2015</year>
+<booktitle>ECC</booktitle>
+<ee>https://doi.org/10.1109/ECC.2015.7330763</ee>
+<crossref>conf/eucc/2015</crossref>
+<url>db/conf/eucc/eucc2015.html#TelenVCHIL15</url>
+</inproceedings>
+</r>
+<r><article key="journals/bmcsb/VercammenLI14" mdate="2020-05-30">
+<author pid="154/2483">Dominique Vercammen</author>
+<author orcid="0000-0001-8621-7531" pid="69/8133">Filip Logist</author>
+<author pid="21/2703">Jan F. M. Van Impe</author>
+<title>Dynamic estimation of specific fluxes in metabolic networks using non-linear dynamic optimization.</title>
+<pages>132</pages>
+<year>2014</year>
+<volume>8</volume>
+<journal>BMC Syst. Biol.</journal>
+<ee type="oa">https://doi.org/10.1186/s12918-014-0132-0</ee>
+<ee>https://www.wikidata.org/entity/Q35481475</ee>
+<url>db/journals/bmcsb/bmcsb8.html#VercammenLI14</url>
+</article>
+</r>
+<r><article key="journals/cce/VallerioIL14" mdate="2024-10-06">
+<author orcid="0000-0003-0669-1108" pid="69/11194">Mattia Vallerio</author>
+<author pid="21/2703">Jan F. M. Van Impe</author>
+<author orcid="0000-0001-8621-7531" pid="69/8133">Filip Logist</author>
+<title>Tuning of NMPC controllers via multi-objective optimisation.</title>
+<pages>38-50</pages>
+<year>2014</year>
+<volume>61</volume>
+<journal>Comput. Chem. Eng.</journal>
+<ee>https://doi.org/10.1016/j.compchemeng.2013.10.003</ee>
+<url>db/journals/cce/cce61.html#VallerioIL14</url>
+</article>
+</r>
+<r><article key="journals/cce/GinsVKI14" mdate="2020-05-18">
+<author pid="50/5893">Geert Gins</author>
+<author pid="98/11196">Jef Vanlaer</author>
+<author pid="01/11195">Pieter Van den Kerkhof</author>
+<author pid="21/2703">Jan F. M. Van Impe</author>
+<title>The RAYMOND simulation package - Generating RAYpresentative MONitoring Data to design advanced process monitoring and control algorithms.</title>
+<pages>108-118</pages>
+<year>2014</year>
+<volume>69</volume>
+<journal>Comput. Chem. Eng.</journal>
+<ee>https://doi.org/10.1016/j.compchemeng.2014.07.010</ee>
+<url>db/journals/cce/cce69.html#GinsVKI14</url>
+</article>
+</r>
+<r><article key="journals/cce/TelenVLI14" mdate="2020-05-18">
+<author pid="154/2652">Dries Telen</author>
+<author pid="154/2483">Dominique Vercammen</author>
+<author orcid="0000-0001-8621-7531" pid="69/8133">Filip Logist</author>
+<author pid="21/2703">Jan F. M. Van Impe</author>
+<title>Robustifying optimal experiment design for nonlinear, dynamic (bio)chemical systems.</title>
+<pages>415-425</pages>
+<year>2014</year>
+<volume>71</volume>
+<journal>Comput. Chem. Eng.</journal>
+<ee>https://doi.org/10.1016/j.compchemeng.2014.09.006</ee>
+<url>db/journals/cce/cce71.html#TelenVLI14</url>
+</article>
+</r>
+<r><inproceedings key="conf/cdc/QuirynenHVTLID14" mdate="2024-10-06">
+<author pid="125/5451">Rien Quirynen</author>
+<author orcid="0000-0002-6761-239X" pid="06/7857">Boris Houska</author>
+<author orcid="0000-0003-0669-1108" pid="69/11194">Mattia Vallerio</author>
+<author pid="154/2652">Dries Telen</author>
+<author orcid="0000-0001-8621-7531" pid="69/8133">Filip Logist</author>
+<author pid="21/2703">Jan F. M. Van Impe</author>
+<author pid="64/134">Moritz Diehl</author>
+<title>Symmetric algorithmic differentiation based exact Hessian SQP method and software for Economic MPC.</title>
+<pages>2752-2757</pages>
+<year>2014</year>
+<booktitle>CDC</booktitle>
+<ee>https://doi.org/10.1109/CDC.2014.7039811</ee>
+<crossref>conf/cdc/2014</crossref>
+<url>db/conf/cdc/cdc2014.html#QuirynenHVTLID14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eucc/BenavidesCHIW14" mdate="2025-10-14">
+<author orcid="0009-0006-6184-046X" pid="179/9988">Micaela Benavides</author>
+<author orcid="0000-0002-4249-1288" pid="52/4281">Daniel Ferreira Coutinho</author>
+<author orcid="0000-0002-2185-2566" pid="78/10493">Anne-Lise Hantson</author>
+<author pid="21/2703">Jan F. M. Van Impe</author>
+<author pid="78/8923">Alain Vande Wouwer</author>
+<title>Gain scheduled luenberger observers for microalgal cultures.</title>
+<pages>146-151</pages>
+<year>2014</year>
+<booktitle>ECC</booktitle>
+<ee>https://doi.org/10.1109/ECC.2014.6862529</ee>
+<crossref>conf/eucc/2014</crossref>
+<url>db/conf/eucc/eucc2014.html#BenavidesCHIW14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eucc/VallerioVIL14" mdate="2024-10-06">
+<author orcid="0000-0003-0669-1108" pid="69/11194">Mattia Vallerio</author>
+<author pid="154/2483">Dominique Vercammen</author>
+<author pid="21/2703">Jan F. M. Van Impe</author>
+<author orcid="0000-0001-8621-7531" pid="69/8133">Filip Logist</author>
+<title>Expanding the exploration of the criterion space for multi-objective optimal control problems.</title>
+<pages>1236-1241</pages>
+<year>2014</year>
+<booktitle>ECC</booktitle>
+<ee>https://doi.org/10.1109/ECC.2014.6862375</ee>
+<crossref>conf/eucc/2014</crossref>
+<url>db/conf/eucc/eucc2014.html#VallerioVIL14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/med/TelenVLI14" mdate="2020-03-27">
+<author pid="154/2652">Dries Telen</author>
+<author pid="154/2483">Dominique Vercammen</author>
+<author orcid="0000-0001-8621-7531" pid="69/8133">Filip Logist</author>
+<author pid="21/2703">Jan F. M. Van Impe</author>
+<title>Robust optimal experiment design for nonlinear dynamic systems.</title>
+<pages>930-935</pages>
+<year>2014</year>
+<booktitle>MED</booktitle>
+<ee>https://doi.org/10.1109/MED.2014.6961493</ee>
+<crossref>conf/med/2014</crossref>
+<url>db/conf/med/med2014.html#TelenVLI14</url>
+</inproceedings>
+</r>
+<r><article key="journals/cce/VanlaerGI13" mdate="2020-05-18">
+<author pid="98/11196">Jef Vanlaer</author>
+<author pid="50/5893">Geert Gins</author>
+<author pid="21/2703">Jan F. M. Van Impe</author>
+<title>Quality assessment of a variance estimator for Partial Least Squares prediction of batch-end quality.</title>
+<pages>230-239</pages>
+<year>2013</year>
+<volume>52</volume>
+<journal>Comput. Chem. Eng.</journal>
+<ee>https://doi.org/10.1016/j.compchemeng.2013.01.012</ee>
+<url>db/journals/cce/cce52.html#VanlaerGI13</url>
+</article>
+</r>
+<r><article key="journals/tim/UgryumovaVHLIM13" mdate="2020-06-08">
+<author pid="127/9484">Diana Ugryumova</author>
+<author orcid="0000-0001-7582-7246" pid="67/6142">Gerd Vandersteen</author>
+<author orcid="0000-0003-2757-9414" pid="127/9421">Bart Huyck</author>
+<author orcid="0000-0001-8621-7531" pid="69/8133">Filip Logist</author>
+<author pid="21/2703">Jan F. M. Van Impe</author>
+<author pid="66/3559">Bart De Moor</author>
+<title>Identification of a Noninsulated Distillation Column From Transient Response Data.</title>
+<pages>1382-1391</pages>
+<year>2013</year>
+<volume>62</volume>
+<journal>IEEE Trans. Instrum. Meas.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1109/TIM.2012.2234577</ee>
+<url>db/journals/tim/tim62.html#UgryumovaVHLIM13</url>
+</article>
+</r>
+<r><inproceedings key="conf/eucc/KerkhofVGI13" mdate="2021-08-09">
+<author pid="01/11195">Pieter Van den Kerkhof</author>
+<author pid="98/11196">Jef Vanlaer</author>
+<author pid="50/5893">Geert Gins</author>
+<author pid="21/2703">Jan F. M. Van Impe</author>
+<title>Contribution plots for Statistical Process Control: Analysis of the smearing-out effect.</title>
+<pages>428-433</pages>
+<year>2013</year>
+<booktitle>ECC</booktitle>
+<ee>https://doi.org/10.23919/ECC.2013.6669609</ee>
+<crossref>conf/eucc/2013</crossref>
+<url>db/conf/eucc/eucc2013.html#KerkhofVGI13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eucc/HuyckBMIL13" mdate="2021-08-09">
+<author pid="127/9421">Bart Huyck</author>
+<author pid="41/3227">Jos De Brabanter</author>
+<author pid="66/3559">Bart De Moor</author>
+<author pid="21/2703">Jan F. M. Van Impe</author>
+<author pid="69/8133">Filip Logist</author>
+<title>Model predictive control of a pilot-scale distillation column using a programmable automation controller.</title>
+<pages>1053-1058</pages>
+<year>2013</year>
+<booktitle>ECC</booktitle>
+<ee>https://doi.org/10.23919/ECC.2013.6669593</ee>
+<crossref>conf/eucc/2013</crossref>
+<url>db/conf/eucc/eucc2013.html#HuyckBMIL13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eucc/TelenHLDI13" mdate="2021-08-09">
+<author pid="154/2652">Dries Telen</author>
+<author pid="06/7857">Boris Houska</author>
+<author pid="69/8133">Filip Logist</author>
+<author pid="64/134">Moritz Diehl</author>
+<author pid="21/2703">Jan F. M. Van Impe</author>
+<title>Guaranteed robust optimal experiment design for nonlinear dynamic systems.</title>
+<pages>2939-2944</pages>
+<year>2013</year>
+<booktitle>ECC</booktitle>
+<ee>https://doi.org/10.23919/ECC.2013.6669453</ee>
+<crossref>conf/eucc/2013</crossref>
+<url>db/conf/eucc/eucc2013.html#TelenHLDI13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/incdm/GinsVKI13" mdate="2017-05-19">
+<author pid="50/5893">Geert Gins</author>
+<author pid="98/11196">Jef Vanlaer</author>
+<author pid="01/11195">Pieter Van den Kerkhof</author>
+<author pid="21/2703">Jan F. M. Van Impe</author>
+<title>Extending Statistical Models for Batch-End Quality Prediction to Batch Control.</title>
+<pages>40-54</pages>
+<year>2013</year>
+<booktitle>ICDM</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-39736-3_4</ee>
+<crossref>conf/incdm/2013</crossref>
+<url>db/conf/incdm/incdm2013.html#GinsVKI13</url>
+</inproceedings>
+</r>
+<r><article key="journals/cce/ErdeghemLDI12" mdate="2020-05-18">
+<author pid="57/11195">Peter M. M. Van Erdeghem</author>
+<author orcid="0000-0001-8621-7531" pid="69/8133">Filip Logist</author>
+<author pid="56/11195">Christoph Dittrich</author>
+<author pid="21/2703">Jan F. M. Van Impe</author>
+<title>Detailed steady-state simulation of tubular reactors for LDPE production: Influence of numerical integration accuracy.</title>
+<pages>40-47</pages>
+<year>2012</year>
+<volume>37</volume>
+<journal>Comput. Chem. Eng.</journal>
+<ee>https://doi.org/10.1016/j.compchemeng.2011.09.003</ee>
+<url>db/journals/cce/cce37.html#ErdeghemLDI12</url>
+</article>
+</r>
+<r><article key="journals/cce/LogistVHDI12" mdate="2024-10-06">
+<author orcid="0000-0001-8621-7531" pid="69/8133">Filip Logist</author>
+<author orcid="0000-0003-0669-1108" pid="69/11194">Mattia Vallerio</author>
+<author orcid="0000-0002-6761-239X" pid="06/7857">Boris Houska</author>
+<author pid="64/134">Moritz Diehl</author>
+<author pid="21/2703">Jan F. M. Van Impe</author>
+<title>Multi-objective optimal control of chemical processes using ACADO toolkit.</title>
+<pages>191-199</pages>
+<year>2012</year>
+<volume>37</volume>
+<journal>Comput. Chem. Eng.</journal>
+<ee>https://doi.org/10.1016/j.compchemeng.2011.11.002</ee>
+<url>db/journals/cce/cce37.html#LogistVHDI12</url>
+</article>
+</r>
+<r><article key="journals/cce/Abo-GhanderLGIEL12" mdate="2020-05-18">
+<author pid="68/11195">Nabeel S. Abo-Ghander</author>
+<author orcid="0000-0001-8621-7531" pid="69/8133">Filip Logist</author>
+<author pid="87/11196">John R. Grace</author>
+<author pid="21/2703">Jan F. M. Van Impe</author>
+<author pid="86/9658">Said S. E. H. Elnashaie</author>
+<author pid="74/11195">C. Jim Lim</author>
+<title>Comparison of diffusion models in the modeling of a catalytic membrane fixed bed reactor coupling dehydrogenation of ethylbenzene with hydrogenation of nitrobenzene.</title>
+<pages>11-23</pages>
+<year>2012</year>
+<volume>38</volume>
+<journal>Comput. Chem. Eng.</journal>
+<ee>https://doi.org/10.1016/j.compchemeng.2011.10.007</ee>
+<url>db/journals/cce/cce38.html#Abo-GhanderLGIEL12</url>
+</article>
+</r>
+<r><article key="journals/cce/KerkhofGVI12" mdate="2020-05-18">
+<author pid="01/11195">Pieter Van den Kerkhof</author>
+<author pid="50/5893">Geert Gins</author>
+<author pid="98/11196">Jef Vanlaer</author>
+<author pid="21/2703">Jan F. M. Van Impe</author>
+<title>Dynamic model-based fault diagnosis for (bio)chemical batch processes.</title>
+<pages>12-21</pages>
+<year>2012</year>
+<volume>40</volume>
+<journal>Comput. Chem. Eng.</journal>
+<ee>https://doi.org/10.1016/j.compchemeng.2012.01.013</ee>
+<url>db/journals/cce/cce40.html#KerkhofGVI12</url>
+</article>
+</r>
+<r><article key="journals/simeuro/StamatiTLDHPI12" mdate="2020-02-06">
+<author pid="257/8057">Ioanna Stamati</author>
+<author pid="257/8147">Ioanna Telen</author>
+<author pid="69/8133">Filip Logist</author>
+<author pid="158/6027">Eva Van Derlinden</author>
+<author pid="87/7430">Markus Hirsch</author>
+<author pid="04/10495">Thomas E. Passenbrunner</author>
+<author pid="21/2703">Jan F. M. Van Impe</author>
+<title>Optimal Experiment Design for Calibrating an Airpath Model of a Diesel Engine.</title>
+<pages>121-128</pages>
+<year>2012</year>
+<volume>22</volume>
+<journal>Simul. Notes Eur.</journal>
+<number>3-4</number>
+<ee type="oa">https://doi.org/10.11128/sne.22.tn.10139</ee>
+<url>db/journals/simeuro/simeuro22.html#StamatiTLDHPI12</url>
+</article>
+</r>
+<r><inproceedings key="conf/amcc/StamatiTLDHPI12" mdate="2021-08-08">
+<author pid="257/8057">Ioanna Stamati</author>
+<author pid="154/2652">Dries Telen</author>
+<author pid="69/8133">Filip Logist</author>
+<author pid="158/6027">Eva Van Derlinden</author>
+<author pid="87/7430">Markus Hirsch</author>
+<author pid="04/10495">Thomas E. Passenbrunner</author>
+<author pid="21/2703">Jan F. M. Van Impe</author>
+<title>Optimal experimental design for mechanistic nonlinear dynamic models using multisine inputs: Application to a Diesel engine.</title>
+<pages>4227-4232</pages>
+<year>2012</year>
+<booktitle>ACC</booktitle>
+<ee>https://doi.org/10.1109/ACC.2012.6315506</ee>
+<crossref>conf/amcc/2012</crossref>
+<url>db/conf/amcc/acc2012.html#StamatiTLDHPI12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/incdm/VanlaerKGI12" mdate="2017-05-19">
+<author pid="98/11196">Jef Vanlaer</author>
+<author pid="01/11195">Pieter Van den Kerkhof</author>
+<author pid="50/5893">Geert Gins</author>
+<author pid="21/2703">Jan F. M. Van Impe</author>
+<title>The Influence of Input and Output Measurement Noise on Batch-End Quality Prediction with Partial Least Squares.</title>
+<pages>121-135</pages>
+<year>2012</year>
+<booktitle>ICDM</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-31488-9_11</ee>
+<crossref>conf/incdm/2012</crossref>
+<url>db/conf/incdm/incdm2012.html#VanlaerKGI12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/rocond/SternbergHLTID12" mdate="2020-03-27">
+<author pid="20/11200">Julia Sternberg</author>
+<author orcid="0000-0002-6761-239X" pid="06/7857">Boris Houska</author>
+<author orcid="0000-0001-8621-7531" pid="69/8133">Filip Logist</author>
+<author pid="154/2652">Dries Telen</author>
+<author pid="21/2703">Jan F. M. Van Impe</author>
+<author pid="64/134">Moritz Diehl</author>
+<title>A Toolkit for Efficient Computation of Sensitivities in Approximate Robust Optimal Control Problems.</title>
+<pages>189-194</pages>
+<year>2012</year>
+<booktitle>ROCOND</booktitle>
+<ee>https://doi.org/10.3182/20120620-3-DK-2025.00088</ee>
+<crossref>conf/rocond/2012</crossref>
+<url>db/conf/rocond/rocond2012.html#SternbergHLTID12</url>
+</inproceedings>
+</r>
+<r><article key="journals/na/PotschkaLIB11" mdate="2020-04-25">
+<author orcid="0000-0002-6027-616X" pid="29/9615">Andreas Potschka</author>
+<author orcid="0000-0001-8621-7531" pid="69/8133">Filip Logist</author>
+<author pid="21/2703">Jan F. M. Van Impe</author>
+<author pid="22/3314">Hans Georg Bock</author>
+<title>Tracing the Pareto frontier in bi-objective optimization problems by ODE techniques.</title>
+<pages>217-233</pages>
+<year>2011</year>
+<volume>57</volume>
+<journal>Numer. Algorithms</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s11075-010-9425-6</ee>
+<url>db/journals/na/na57.html#PotschkaLIB11</url>
+</article>
+</r>
+<r><inproceedings key="conf/incdm/GinsPSEI11" mdate="2021-08-28">
+<author pid="50/5893">Geert Gins</author>
+<author pid="51/9969">Bert Pluymers</author>
+<author pid="75/6614">Ilse Y. Smets</author>
+<author pid="48/9187">Jairo Jose Espinosa</author>
+<author pid="21/2703">Jan F. M. Van Impe</author>
+<title>Prediction of Batch-End Quality for an Industrial Polymerization Process.</title>
+<pages>314-328</pages>
+<year>2011</year>
+<booktitle>ICDM</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-23184-1_24</ee>
+<crossref>conf/incdm/2011</crossref>
+<url>db/conf/incdm/incdm2011.html#GinsPSEI11</url>
+</inproceedings>
+</r>
+<r><article key="journals/cce/AlarconDLMI10" mdate="2020-05-18">
+<author pid="49/7140">Julian Bonilla Alarcon</author>
+<author pid="64/134">Moritz Diehl</author>
+<author orcid="0000-0001-8621-7531" pid="69/8133">Filip Logist</author>
+<author pid="66/3559">Bart De Moor</author>
+<author pid="21/2703">Jan F. M. Van Impe</author>
+<title>An automatic initialization procedure in parameter estimation problems with parameter-affine dynamic models.</title>
+<pages>953-964</pages>
+<year>2010</year>
+<volume>34</volume>
+<journal>Comput. Chem. Eng.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1016/j.compchemeng.2009.10.020</ee>
+<url>db/journals/cce/cce34.html#AlarconDLMI10</url>
+</article>
+</r>
+<r><inproceedings key="conf/cdc/AlarconDLMI09" mdate="2020-03-27">
+<author pid="49/7140">Julian Bonilla Alarcon</author>
+<author pid="64/134">Moritz Diehl</author>
+<author orcid="0000-0001-8621-7531" pid="69/8133">Filip Logist</author>
+<author pid="66/3559">Bart De Moor</author>
+<author pid="21/2703">Jan F. M. Van Impe</author>
+<title>A convex approximation for parameter estimation involving parameter-affine dynamic models.</title>
+<pages>4670-4675</pages>
+<year>2009</year>
+<booktitle>CDC</booktitle>
+<ee>https://doi.org/10.1109/CDC.2009.5399868</ee>
+<crossref>conf/cdc/2009</crossref>
+<url>db/conf/cdc/cdc2009.html#AlarconDLMI09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cdc/HouskaLID09" mdate="2020-03-27">
+<author orcid="0000-0002-6761-239X" pid="06/7857">Boris Houska</author>
+<author orcid="0000-0001-8621-7531" pid="69/8133">Filip Logist</author>
+<author pid="21/2703">Jan F. M. Van Impe</author>
+<author pid="64/134">Moritz Diehl</author>
+<title>Approximate robust optimization of time-periodic stationary states with application to biochemical processes.</title>
+<pages>6280-6285</pages>
+<year>2009</year>
+<booktitle>CDC</booktitle>
+<ee>https://doi.org/10.1109/CDC.2009.5400684</ee>
+<crossref>conf/cdc/2009</crossref>
+<url>db/conf/cdc/cdc2009.html#HouskaLID09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eucc/LogistHFVPBMI09" mdate="2021-08-09">
+<author pid="69/8133">Filip Logist</author>
+<author pid="127/9421">Bart Huyck</author>
+<author pid="293/5994">Maarten Fabr&#233;</author>
+<author pid="293/5956">Maarten Verwerft</author>
+<author pid="51/9969">Bert Pluymers</author>
+<author pid="41/3227">Jos De Brabanter</author>
+<author pid="66/3559">Bart De Moor</author>
+<author pid="21/2703">Jan F. M. Van Impe</author>
+<title>Identification and control of a pilot scale binary distillation column.</title>
+<pages>4659-4664</pages>
+<year>2009</year>
+<booktitle>ECC</booktitle>
+<ee>https://doi.org/10.23919/ECC.2009.7075136</ee>
+<crossref>conf/eucc/2009</crossref>
+<url>db/conf/eucc/eucc2009.html#LogistHFVPBMI09</url>
+</inproceedings>
+</r>
+<r><article key="journals/neco/GinsSI08" mdate="2020-09-01">
+<author pid="50/5893">Geert Gins</author>
+<author pid="75/6614">Ilse Y. Smets</author>
+<author pid="21/2703">Jan F. M. Van Impe</author>
+<title>Efficient Tracking of the Dominant Eigenspace of a Normalized Kernel Matrix.</title>
+<pages>523-554</pages>
+<year>2008</year>
+<volume>20</volume>
+<journal>Neural Comput.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1162/neco.2007.05-06-213</ee>
+<ee>https://www.wikidata.org/entity/Q45964963</ee>
+<url>db/journals/neco/neco20.html#GinsSI08</url>
+</article>
+</r>
+<r><inproceedings key="conf/cdc/AlarconDMI08" mdate="2017-05-19">
+<author pid="49/7140">Julian Bonilla Alarcon</author>
+<author pid="64/134">Moritz Diehl</author>
+<author pid="66/3559">Bart De Moor</author>
+<author pid="21/2703">Jan F. M. Van Impe</author>
+<title>A nonlinear least squares estimation procedure without initial parameter guesses.</title>
+<pages>5519-5524</pages>
+<year>2008</year>
+<booktitle>CDC</booktitle>
+<ee>https://doi.org/10.1109/CDC.2008.4739175</ee>
+<crossref>conf/cdc/2008</crossref>
+<url>db/conf/cdc/cdc2008.html#AlarconDMI08</url>
+</inproceedings>
+</r>
+<r><article key="journals/program/Impe06" mdate="2017-05-27">
+<author pid="21/2703">Jan F. M. Van Impe</author>
+<title>The Reference Collection: From the Shelf to the Web.</title>
+<pages>401-404</pages>
+<year>2006</year>
+<volume>40</volume>
+<journal>Program</journal>
+<number>4</number>
+<ee>https://doi.org/10.1108/00330330610708024</ee>
+<url>db/journals/program/program40.html#Impe06</url>
+</article>
+</r>
+<r><inproceedings key="conf/incdm/GinsESBI06" mdate="2022-02-22">
+<author pid="50/5893">Geert Gins</author>
+<author pid="48/9187">Jairo Jose Espinosa</author>
+<author pid="75/6614">Ilse Y. Smets</author>
+<author pid="83/2144">Wim Van Brempt</author>
+<author pid="21/2703">Jan F. M. Van Impe</author>
+<title>Data Alignment Via Dynamic Time Warping as a Prerequisite for Batch-End Quality Prediction.</title>
+<pages>506-510</pages>
+<year>2006</year>
+<crossref>conf/incdm/2006</crossref>
+<booktitle>ICDM</booktitle>
+<ee>https://doi.org/10.1007/11790853_39</ee>
+<url>db/conf/incdm/incdm2006.html#GinsESBI06</url>
+</inproceedings>
+</r>
+<r><article key="journals/simpra/BernaertsI05" mdate="2020-02-24">
+<author orcid="0000-0001-6211-7042" pid="75/3770">Kristel Bernaerts</author>
+<author pid="21/2703">Jan F. M. Van Impe</author>
+<title>Optimal dynamic experiment design for estimation of microbial growth kinetics at sub-optimal temperatures: Modes of implementation.</title>
+<pages>129-138</pages>
+<year>2005</year>
+<volume>13</volume>
+<journal>Simul. Model. Pract. Theory</journal>
+<number>2</number>
+<ee>https://doi.org/10.1016/j.simpat.2004.10.005</ee>
+<url>db/journals/simpra/simpra13.html#BernaertsI05</url>
+</article>
+</r>
+<r><article key="journals/mcs/PoschetBGSNI04" mdate="2022-02-04">
+<author pid="28/3763">F. Poschet</author>
+<author orcid="0000-0001-6211-7042" pid="75/3770">Kristel Bernaerts</author>
+<author orcid="0000-0001-8473-4092" pid="76/3986">A. H. Geeraerd</author>
+<author orcid="0000-0001-6971-187X" pid="18/873">Nico Scheerlinck</author>
+<author orcid="0000-0001-5267-1920" pid="45/11025">Bart M. Nicola&#239;</author>
+<author pid="21/2703">Jan F. M. Van Impe</author>
+<title>Sensitivity analysis of microbial growth parameter distributions with respect to data quality and quantity by using Monte Carlo analysis.</title>
+<pages>231-243</pages>
+<year>2004</year>
+<volume>65</volume>
+<journal>Math. Comput. Simul.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1016/j.matcom.2003.12.002</ee>
+<ee>https://www.wikidata.org/entity/Q63213827</ee>
+<url>db/journals/mcs/mcs65.html#PoschetBGSNI04</url>
+</article>
+</r>
+<r><inproceedings key="conf/eucc/BanaddaJSI03" mdate="2021-03-08">
+<author pid="286/8860">E. N. Banadda</author>
+<author pid="286/9009">R. Jenn&#233;</author>
+<author pid="75/6614">Ilse Y. Smets</author>
+<author pid="21/2703">Jan F. M. Van Impe</author>
+<title>Predicting the onset of filamentous bulking in biological wastewater treatment systems by exploiting image analysis information.</title>
+<pages>2935-2940</pages>
+<year>2003</year>
+<booktitle>ECC</booktitle>
+<ee>https://doi.org/10.23919/ECC.2003.7086486</ee>
+<crossref>conf/eucc/2003</crossref>
+<url>db/conf/eucc/eucc2003.html#BanaddaJSI03</url>
+</inproceedings>
+</r>
+<r><article key="journals/arc/SmetsVI02" mdate="2020-02-21">
+<author pid="75/6614">Ilse Y. Smets</author>
+<author pid="138/3773">Karina J. E. Versyck</author>
+<author pid="21/2703">Jan F. M. Van Impe</author>
+<title>Optimal control theory: A generic tool for identification and control of (bio-)chemical reactors.</title>
+<pages>57-73</pages>
+<year>2002</year>
+<volume>26</volume>
+<journal>Annu. Rev. Control.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1016/S1367-5788(02)80012-8</ee>
+<url>db/journals/arc/arc26.html#SmetsVI02</url>
+</article>
+</r>
+<r><article key="journals/mcs/SmetsI02" mdate="2020-03-04">
+<author pid="75/6614">Ilse Y. Smets</author>
+<author pid="21/2703">Jan F. M. Van Impe</author>
+<title>Optimal control of (bio-)chemical reactors: generic properties of time and space dependent optimization.</title>
+<pages>475-486</pages>
+<year>2002</year>
+<volume>60</volume>
+<journal>Math. Comput. Simul.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1016/S0378-4754(02)00034-4</ee>
+<url>db/journals/mcs/mcs60.html#SmetsI02</url>
+</article>
+</r>
+<r><article key="journals/ejcon/BastinI95" mdate="2017-05-28">
+<author pid="97/5926">Georges Bastin</author>
+<author pid="21/2703">Jan F. M. Van Impe</author>
+<title>Nonlinear and Adaptive Control in Biotechnology: A Tutorial.</title>
+<pages>37-53</pages>
+<year>1995</year>
+<volume>1</volume>
+<journal>Eur. J. Control</journal>
+<number>1</number>
+<ee>https://doi.org/10.1016/S0947-3580(95)70006-1</ee>
+<url>db/journals/ejcon/ejcon1.html#BastinI95</url>
+</article>
+</r>
+<coauthors n="79" nc="4">
+<co c="0"><na f="a/Abo=Ghander:Nabeel_S=" pid="68/11195">Nabeel S. Abo-Ghander</na></co>
+<co c="0"><na f="a/Akkermans:Simen" pid="384/1777">Simen Akkermans</na></co>
+<co c="0"><na f="a/Alarcon:Julian_Bonilla" pid="49/7140">Julian Bonilla Alarcon</na></co>
+<co c="0"><na f="a/Augustinus:Klaas" pid="213/8986">Klaas Augustinus</na></co>
+<co c="0"><na f="b/Banadda:E=_N=" pid="286/8860">E. N. Banadda</na></co>
+<co c="1"><na f="b/Bastin:Georges" pid="97/5926">Georges Bastin</na></co>
+<co c="0"><na f="b/Beetens:Mickey" pid="202/3869">Mickey Beetens</na></co>
+<co c="1"><na f="b/Benavides:Micaela" pid="179/9988">Micaela Benavides</na></co>
+<co c="2"><na f="b/Bernaerts:Kristel" pid="75/3770">Kristel Bernaerts</na></co>
+<co c="0"><na f="b/Bhonsale:Satyajeet_S=" pid="202/3829">Satyajeet S. Bhonsale</na></co>
+<co c="0"><na f="b/Bock:Hans_Georg" pid="22/3314">Hans Georg Bock</na></co>
+<co c="1"><na f="b/Bogaerts:Philippe" pid="96/5582">Philippe Bogaerts</na></co>
+<co c="0"><na f="b/Brabanter:Jos_De" pid="41/3227">Jos De Brabanter</na></co>
+<co c="0"><na f="b/Brempt:Wim_Van" pid="83/2144">Wim Van Brempt</na></co>
+<co c="0"><na f="b/Buck:V=_De" pid="89/6277">V. De Buck</na></co>
+<co c="0"><na f="c/Cabianca:Lorenzo" pid="179/9861">Lorenzo Cabianca</na></co>
+<co c="1"><na f="c/Coutinho:Daniel_Ferreira" pid="52/4281">Daniel Ferreira Coutinho</na></co>
+<co c="0"><na f="d/Derlinden:Eva_Van" pid="158/6027">Eva Van Derlinden</na></co>
+<co c="0"><na f="d/Diehl:Moritz" pid="64/134">Moritz Diehl</na></co>
+<co c="0"><na f="d/Dittrich:Christoph" pid="56/11195">Christoph Dittrich</na></co>
+<co c="0"><na f="e/Elnashaie:Said_S=_E=_H=" pid="86/9658">Said S. E. H. Elnashaie</na></co>
+<co c="0"><na f="e/Erdeghem:Peter_M=_M=_Van" pid="57/11195">Peter M. M. Van Erdeghem</na></co>
+<co c="0" n="2"><na f="e/Espinosa:Jairo_Jos=eacute=" pid="48/9187">Jairo Jos&#233; Espinosa</na><na>Jairo Jose Espinosa</na></co>
+<co c="0"><na f="f/Fabr=eacute=:Maarten" pid="293/5994">Maarten Fabr&#233;</na></co>
+<co c="0"><na f="f/Fern=aacute=ndez:E=_Noriega" pid="176/7770">E. Noriega Fern&#225;ndez</na></co>
+<co c="2"><na f="g/Geeraerd:A=_H=" pid="76/3986">A. H. Geeraerd</na></co>
+<co c="0"><na f="g/Gins:Geert" pid="50/5893">Geert Gins</na></co>
+<co c="0"><na f="g/Grace:John_R=" pid="87/11196">John R. Grace</na></co>
+<co c="0"><na f="g/Griffin:Sholeem" pid="384/1524">Sholeem Griffin</na></co>
+<co c="1"><na f="h/Hantson:Anne=Lise" pid="78/10493">Anne-Lise Hantson</na></co>
+<co c="0"><na f="h/Hashem:Ihab" pid="337/6771">Ihab Hashem</na></co>
+<co c="0"><na f="h/Hirsch:Markus" pid="87/7430">Markus Hirsch</na></co>
+<co c="0"><na f="h/Houska:Boris" pid="06/7857">Boris Houska</na></co>
+<co c="0"><na f="h/Hufkens:Jan" pid="167/2007">Jan Hufkens</na></co>
+<co c="0"><na f="h/Huyck:Bart" pid="127/9421">Bart Huyck</na></co>
+<co c="0"><na f="j/Jenn=eacute=:R=" pid="286/9009">R. Jenn&#233;</na></co>
+<co c="0"><na f="k/Katsini:Lydia" pid="384/1767">Lydia Katsini</na></co>
+<co c="0"><na f="k/Kerkhof:Pieter_Van_den" pid="01/11195">Pieter Van den Kerkhof</na></co>
+<co c="3"><na f="k/Kroll:Stefan" pid="204/6389">Stefan Kroll</na></co>
+<co c="0"><na f="l/Lim:C=_Jim" pid="74/11195">C. Jim Lim</na></co>
+<co c="0"><na f="l/Logist:Filip" pid="69/8133">Filip Logist</na></co>
+<co c="0"><na f="l/L=oacute=pez:Carlos_Andr=eacute=_Mu=ntilde=oz" pid="211/3162">Carlos Andr&#233; Mu&#241;oz L&#243;pez</na></co>
+<co c="1"><na f="m/Mailier:Johan" pid="186/8694">Johan Mailier</na></co>
+<co c="0"><na f="m/Moor:Bart_De" pid="66/3559">Bart De Moor</na></co>
+<co c="0"><na f="m/Mores:Wannes" pid="337/6546">Wannes Mores</na></co>
+<co c="1"><na f="m/Mu=ntilde=oz:Gerardo" pid="186/8686">Gerardo Mu&#241;oz</na></co>
+<co c="2"><na f="n/Nicola=iuml=:Bart_M=" pid="45/11025">Bart M. Nicola&#239;</na></co>
+<co c="0"><na f="n/Nimmegeers:Philippe" pid="187/9608">Philippe Nimmegeers</na></co>
+<co c="0"><na f="p/Passenbrunner:Thomas_E=" pid="04/10495">Thomas E. Passenbrunner</na></co>
+<co c="0"><na f="p/Pluymers:Bert" pid="51/9969">Bert Pluymers</na></co>
+<co c="0"><na f="p/Polanska:Monika" pid="384/1500">Monika Polanska</na></co>
+<co c="2"><na f="p/Poschet:F=" pid="28/3763">F. Poschet</na></co>
+<co c="0"><na f="p/Potschka:Andreas" pid="29/9615">Andreas Potschka</na></co>
+<co c="0"><na f="p/Prins:Michiel_De" pid="213/8904">Michiel De Prins</na></co>
+<co c="0"><na f="q/Quirynen:Rien" pid="125/5451">Rien Quirynen</na></co>
+<co c="0"><na f="r/Roufou:Styliani" pid="384/1703">Styliani Roufou</na></co>
+<co c="2"><na f="s/Scheerlinck:Nico" pid="18/873">Nico Scheerlinck</na></co>
+<co c="0"><na f="s/Smets:Ilse_Y=" pid="75/6614">Ilse Y. Smets</na></co>
+<co c="0"><na f="s/Stamati:Ioanna" pid="257/8057">Ioanna Stamati</na></co>
+<co c="0"><na f="s/Sternberg:Julia" pid="20/11200">Julia Sternberg</na></co>
+<co c="0"><na f="s/Stokbroekx:Bard" pid="278/6308">Bard Stokbroekx</na></co>
+<co c="0"><na f="t/Telen:Dries" pid="154/2652">Dries Telen</na></co>
+<co c="0"><na f="t/Telen:Ioanna" pid="257/8147">Ioanna Telen</na></co>
+<co c="0"><na f="u/Ugryumova:Diana" pid="127/9484">Diana Ugryumova</na></co>
+<co c="0"><na f="v/Valdramidis:Vasilis" pid="384/1780">Vasilis Valdramidis</na></co>
+<co c="0"><na f="v/Vallerio:Mattia" pid="69/11194">Mattia Vallerio</na></co>
+<co c="0"><na f="v/Vandersteen:Gerd" pid="67/6142">Gerd Vandersteen</na></co>
+<co c="0"><na f="v/Vanlaer:Jef" pid="98/11196">Jef Vanlaer</na></co>
+<co c="1"><na f="v/Vargas:Alejandro" pid="73/8412">Alejandro Vargas</na></co>
+<co c="0"><na f="v/Vercammen:Dominique" pid="154/2483">Dominique Vercammen</na></co>
+<co c="0"><na f="v/Versyck:Karina_J=_E=" pid="138/3773">Karina J. E. Versyck</na></co>
+<co c="0"><na f="v/Verwerft:Maarten" pid="293/5956">Maarten Verwerft</na></co>
+<co c="3"><na f="w/Wambecq:T=" pid="201/9068">T. Wambecq</na></co>
+<co c="0"><na f="w/Wang:Jian" pid="39/449">Jian Wang</na></co>
+<co c="3"><na f="w/Weemaes:M=" pid="201/8797">M. Weemaes</na></co>
+<co c="3"><na f="w/Willems:Patrick" pid="09/7682">Patrick Willems</na></co>
+<co c="1"><na f="w/Wouwer:Alain_Vande" pid="78/8923">Alain Vande Wouwer</na></co>
+<co c="0"><na f="w/Wuyts:Sam" pid="181/9434">Sam Wuyts</na></co>
+<co c="0"><na f="z/Zegel:Sander_Van_den" pid="181/9400">Sander Van den Zegel</na></co>
+</coauthors>
+</dblpperson>
+

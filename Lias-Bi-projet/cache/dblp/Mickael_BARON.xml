@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<dblpperson name="Einir Valdimarsson" pid="70/1885" n="3">
+<person key="homepages/70/1885" mdate="2009-06-09">
+<author pid="70/1885">Einir Valdimarsson</author>
+</person>
+<r><inproceedings key="conf/infocom/Valdimarsson95" mdate="2017-05-16">
+<author pid="70/1885">Einir Valdimarsson</author>
+<title>Queueing Analysis for Shared Buffer Switching Networks for Non-Uniform Traffic.</title>
+<pages>8-15</pages>
+<year>1995</year>
+<crossref>conf/infocom/1995</crossref>
+<booktitle>INFOCOM</booktitle>
+<url>db/conf/infocom/infocom1995-1.html#Valdimarsson95</url>
+<ee>https://doi.org/10.1109/INFCOM.1995.515854</ee>
+</inproceedings>
+</r>
+<r><article key="journals/tcom/Valdimarsson94" mdate="2020-09-01">
+<author pid="70/1885">Einir Valdimarsson</author>
+<title>Blocking in multirate interconnection networks.</title>
+<pages>2028-2035</pages>
+<year>1994</year>
+<volume>42</volume>
+<journal>IEEE Trans. Commun.</journal>
+<number>234</number>
+<ee>https://doi.org/10.1109/TCOMM.1994.583417</ee>
+<url>db/journals/tcom/tcom42.html#Valdimarsson94</url>
+</article>
+</r>
+<r><inproceedings key="conf/infocom/Valdimarsson91" mdate="2023-03-23">
+<author pid="70/1885">Einir Valdimarsson</author>
+<title>Blocking in Multirate Networks.</title>
+<pages>579-588</pages>
+<year>1991</year>
+<crossref>conf/infocom/1991</crossref>
+<booktitle>INFOCOM</booktitle>
+<url>db/conf/infocom/infocom1991-2.html#Valdimarsson91</url>
+<ee>https://doi.org/10.1109/INFCOM.1991.147557</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/INFCOM.1991.147557</ee>
+</inproceedings>
+</r>
+</dblpperson>
+

@@ -1,0 +1,554 @@
+<?xml version="1.0"?>
+<dblpperson name="Ligang Hou" pid="11/1801" n="32">
+<person key="homepages/11/1801" mdate="2009-06-09">
+<author pid="11/1801">Ligang Hou</author>
+</person>
+<r><inproceedings key="conf/icnsc/HouSZ23" mdate="2023-12-02">
+<author pid="11/1801">Ligang Hou</author>
+<author pid="75/6206">Xin Shen</author>
+<author pid="71/6048">Liqi Zhang</author>
+<title>A Fuzzy Time Series Forecasting Model for Urban Mid- and Long-term Electricity Load Forecasting.</title>
+<pages>1-6</pages>
+<year>2023</year>
+<booktitle>ICNSC</booktitle>
+<ee>https://doi.org/10.1109/ICNSC58704.2023.10319058</ee>
+<crossref>conf/icnsc/2023</crossref>
+<url>db/conf/icnsc/icnsc2023.html#HouSZ23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icnsc/HouSZ23a" mdate="2023-12-02">
+<author pid="11/1801">Ligang Hou</author>
+<author pid="75/6206">Xin Shen</author>
+<author pid="71/6048">Liqi Zhang</author>
+<title>Urban Electricity Demand Forecasting with a Hybrid Machine Learning Model.</title>
+<pages>1-6</pages>
+<year>2023</year>
+<booktitle>ICNSC</booktitle>
+<ee>https://doi.org/10.1109/ICNSC58704.2023.10319027</ee>
+<crossref>conf/icnsc/2023</crossref>
+<url>db/conf/icnsc/icnsc2023.html#HouSZ23a</url>
+</inproceedings>
+</r>
+<r><article key="journals/tie/GengHCBHW20" mdate="2025-01-19">
+<author orcid="0000-0002-3393-1835" pid="94/6561">Shuqin Geng</author>
+<author pid="255/2277">Yupeng Hou</author>
+<author pid="255/2409">Menghao Chu</author>
+<author pid="87/10979">Yuxin Bai</author>
+<author pid="11/1801">Ligang Hou</author>
+<author pid="61/5618">Heng Wang</author>
+<title>Analysis and Computational Methods for a Reader Solenoid Coil Used in Industrial Environments.</title>
+<pages>3298-3306</pages>
+<year>2020</year>
+<volume>67</volume>
+<journal>IEEE Trans. Ind. Electron.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TIE.2019.2908596</ee>
+<ee>https://www.wikidata.org/entity/Q127643553</ee>
+<url>db/journals/tie/tie67.html#GengHCBHW20</url>
+</article>
+</r>
+<r><article key="journals/information/HouWJW19" mdate="2025-04-15">
+<author pid="11/1801">Ligang Hou</author>
+<author pid="235/9936-2">Ze Wu 0002</author>
+<author orcid="0000-0002-1904-9424" pid="68/3340-6">Xin Jin 0006</author>
+<author orcid="0000-0001-7726-5267" pid="33/4822-13">Yue Wang 0013</author>
+<title>Linear Offset-Free Model Predictive Control in the Dynamic PLS Framework.</title>
+<pages>5</pages>
+<year>2019</year>
+<volume>10</volume>
+<journal>Inf.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.3390/info10010005</ee>
+<url>db/journals/information/information10.html#HouWJW19</url>
+</article>
+</r>
+<r><article key="journals/jips/HouGC19" mdate="2022-06-17">
+<author pid="11/1801">Ligang Hou</author>
+<author pid="26/11209">Yingqiang Guo</author>
+<author pid="57/1997">Jiangtao Cao</author>
+<title>The Improved Joint Bayesian Method for Person Re-identification Across Different Camera.</title>
+<pages>785-796</pages>
+<year>2019</year>
+<volume>15</volume>
+<journal>J. Inf. Process. Syst.</journal>
+<number>4</number>
+<ee type="oa">http://www.jips-k.org/q.jips?cp=pp&#38;pn=687</ee>
+<url>db/journals/jips/jips15.html#HouGC19</url>
+</article>
+</r>
+<r><article key="journals/ieeejas/HouFFW18" mdate="2019-10-31">
+<author pid="11/1801">Ligang Hou</author>
+<author pid="251/2083">Fangwen Fan</author>
+<author pid="176/0885">Jingyan Fu</author>
+<author pid="19/3636">Jinhui Wang</author>
+<title>Time-varying algorithm for swarm robotics.</title>
+<pages>217-222</pages>
+<year>2018</year>
+<volume>5</volume>
+<journal>IEEE CAA J. Autom. Sinica</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.1109/JAS.2017.7510685</ee>
+<url>db/journals/ieeejas/ieeejas5.html#HouFFW18</url>
+</article>
+</r>
+<r><inproceedings key="conf/asicon/YeHZWP17" mdate="2018-01-17">
+<author pid="212/7535">Tongyang Ye</author>
+<author pid="11/1801">Ligang Hou</author>
+<author pid="212/7435">Shier Zhang</author>
+<author pid="19/3636">Jinhui Wang</author>
+<author pid="50/2098">Xiaohong Peng</author>
+<title>TSV modelling in 3D IC thermoelectric simulation.</title>
+<pages>678-681</pages>
+<year>2017</year>
+<booktitle>ASICON</booktitle>
+<ee>https://doi.org/10.1109/ASICON.2017.8252566</ee>
+<crossref>conf/asicon/2017</crossref>
+<url>db/conf/asicon/asicon2017.html#YeHZWP17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mwscas/FuPCLLHHGW17" mdate="2024-08-16">
+<author pid="176/0885">Jingyan Fu</author>
+<author orcid="0000-0002-5045-9720" pid="180/6598">Seyed Alireza Pourbakhsh</author>
+<author pid="42/3145-4">Xiaowei Chen 0004</author>
+<author pid="126/2379">Mingli Li</author>
+<author orcid="0000-0003-3952-8147" pid="25/2942">Zhibin Lin</author>
+<author pid="11/1801">Ligang Hou</author>
+<author pid="261/4537">Frederik Haring</author>
+<author pid="60/1284">Na Gong</author>
+<author pid="19/3636">Jinhui Wang</author>
+<title>On-chip thermal management method based on phase change material.</title>
+<pages>985-988</pages>
+<year>2017</year>
+<booktitle>MWSCAS</booktitle>
+<ee>https://doi.org/10.1109/MWSCAS.2017.8053091</ee>
+<crossref>conf/mwscas/2017</crossref>
+<url>db/conf/mwscas/mwscas2017.html#FuPCLLHHGW17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eit/ChenPHGW16" mdate="2024-08-16">
+<author pid="42/3145-4">Xiaowei Chen 0004</author>
+<author orcid="0000-0002-5045-9720" pid="180/6598">Seyed Alireza Pourbakhsh</author>
+<author pid="11/1801">Ligang Hou</author>
+<author pid="60/1284">Na Gong</author>
+<author pid="19/3636">Jinhui Wang</author>
+<title>Dummy TSV based bit-line optimization in 3D on-chip memory.</title>
+<pages>580-585</pages>
+<year>2016</year>
+<booktitle>EIT</booktitle>
+<ee>https://doi.org/10.1109/EIT.2016.7535304</ee>
+<crossref>conf/eit/2016</crossref>
+<url>db/conf/eit/eit2016.html#ChenPHGW16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/asicon/HouFWG0G15" mdate="2018-07-17">
+<author pid="11/1801">Ligang Hou</author>
+<author pid="176/0885">Jingyan Fu</author>
+<author pid="19/3636">Jinhui Wang</author>
+<author pid="60/1284">Na Gong</author>
+<author pid="z/WeiZhao-1">Wei Zhao 0001</author>
+<author pid="94/6561">Shuqin Geng</author>
+<title>A thermal-aware distribution method of TSV in 3D IC.</title>
+<pages>1-3</pages>
+<year>2015</year>
+<booktitle>ASICON</booktitle>
+<ee>https://doi.org/10.1109/ASICON.2015.7517067</ee>
+<crossref>conf/asicon/2015</crossref>
+<url>db/conf/asicon/asicon2015.html#HouFWG0G15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/asicon/HouZZWPG15" mdate="2018-07-17">
+<author pid="11/1801">Ligang Hou</author>
+<author pid="223/1064">Jingsong Zhi</author>
+<author pid="181/2882">Lin Zhu</author>
+<author pid="19/3636">Jinhui Wang</author>
+<author pid="50/2098">Xiaohong Peng</author>
+<author pid="94/6561">Shuqin Geng</author>
+<title>A fast vector reuse verification method for standard cell library.</title>
+<pages>1-4</pages>
+<year>2015</year>
+<booktitle>ASICON</booktitle>
+<ee>https://doi.org/10.1109/ASICON.2015.7517026</ee>
+<crossref>conf/asicon/2015</crossref>
+<url>db/conf/asicon/asicon2015.html#HouZZWPG15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/asicon/LiangHWYGZ15" mdate="2018-07-17">
+<author pid="176/7040">Xiang Liang</author>
+<author pid="11/1801">Ligang Hou</author>
+<author pid="19/3636">Jinhui Wang</author>
+<author pid="39/590">Chunhui Yang</author>
+<author pid="223/1024">Deyang Gao</author>
+<author pid="181/2882">Lin Zhu</author>
+<title>Transaction level model of HDMI transmitter based on System Verilog.</title>
+<pages>1-4</pages>
+<year>2015</year>
+<booktitle>ASICON</booktitle>
+<ee>https://doi.org/10.1109/ASICON.2015.7516906</ee>
+<crossref>conf/asicon/2015</crossref>
+<url>db/conf/asicon/asicon2015.html#LiangHWYGZ15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/asicon/LiangWWHG15" mdate="2018-07-17">
+<author pid="06/66">Qian Liang</author>
+<author pid="19/3636">Jinhui Wang</author>
+<author pid="29/10189">Peiyuan Wan</author>
+<author pid="11/1801">Ligang Hou</author>
+<author pid="60/1284">Na Gong</author>
+<title>DCPG: Double-control power gating technique for a 28 nm Cortex&#8482;-A9 MPCore Quad-core processor.</title>
+<pages>1-4</pages>
+<year>2015</year>
+<booktitle>ASICON</booktitle>
+<ee>https://doi.org/10.1109/ASICON.2015.7517051</ee>
+<crossref>conf/asicon/2015</crossref>
+<url>db/conf/asicon/asicon2015.html#LiangWWHG15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/asicon/RuPHWGS15" mdate="2018-07-17">
+<author pid="213/9289">Feng Ru</author>
+<author pid="50/2098">Xiaohong Peng</author>
+<author pid="11/1801">Ligang Hou</author>
+<author pid="19/3636">Jinhui Wang</author>
+<author pid="94/6561">Shuqin Geng</author>
+<author pid="14/5979">Chen Song</author>
+<title>The design of face recognition system based on ARM9 embedded platform.</title>
+<pages>1-4</pages>
+<year>2015</year>
+<booktitle>ASICON</booktitle>
+<ee>https://doi.org/10.1109/ASICON.2015.7516879</ee>
+<crossref>conf/asicon/2015</crossref>
+<url>db/conf/asicon/asicon2015.html#RuPHWGS15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/asicon/YangWHG15" mdate="2018-07-17">
+<author pid="177/6285">Zezhong Yang</author>
+<author pid="19/3636">Jinhui Wang</author>
+<author pid="11/1801">Ligang Hou</author>
+<author pid="60/1284">Na Gong</author>
+<title>Novel CMOS technology compatible nonvolatile on-chip hybrid memory.</title>
+<pages>1-4</pages>
+<year>2015</year>
+<booktitle>ASICON</booktitle>
+<ee>https://doi.org/10.1109/ASICON.2015.7517142</ee>
+<crossref>conf/asicon/2015</crossref>
+<url>db/conf/asicon/asicon2015.html#YangWHG15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/asicon/YinPWWH15" mdate="2018-07-17">
+<author pid="90/6197">Haibin Yin</author>
+<author pid="50/2098">Xiaohong Peng</author>
+<author pid="29/10189">Peiyuan Wan</author>
+<author pid="19/3636">Jinhui Wang</author>
+<author pid="11/1801">Ligang Hou</author>
+<title>Design and testing of CMOS compatible EEPROM.</title>
+<pages>1-4</pages>
+<year>2015</year>
+<booktitle>ASICON</booktitle>
+<ee>https://doi.org/10.1109/ASICON.2015.7517140</ee>
+<crossref>conf/asicon/2015</crossref>
+<url>db/conf/asicon/asicon2015.html#YinPWWH15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/asicon/ZhangWHG15" mdate="2018-07-17">
+<author pid="223/1144">Junteng Zhang</author>
+<author pid="19/3636">Jinhui Wang</author>
+<author pid="11/1801">Ligang Hou</author>
+<author pid="60/1284">Na Gong</author>
+<title>Reusable IO technique for improved utility of IC test circuit area.</title>
+<pages>1-5</pages>
+<year>2015</year>
+<booktitle>ASICON</booktitle>
+<ee>https://doi.org/10.1109/ASICON.2015.7517143</ee>
+<crossref>conf/asicon/2015</crossref>
+<url>db/conf/asicon/asicon2015.html#ZhangWHG15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/asicon/ZhaoHPWFY15" mdate="2018-07-17">
+<author pid="181/2852">Wei Zhao</author>
+<author pid="11/1801">Ligang Hou</author>
+<author pid="50/2098">Xiaohong Peng</author>
+<author pid="19/3636">Jinhui Wang</author>
+<author pid="176/0885">Jingyan Fu</author>
+<author pid="48/450">Yang Yang</author>
+<title>A TSV alignment design for multilayer 3D IC.</title>
+<pages>1-4</pages>
+<year>2015</year>
+<booktitle>ASICON</booktitle>
+<ee>https://doi.org/10.1109/ASICON.2015.7517065</ee>
+<crossref>conf/asicon/2015</crossref>
+<url>db/conf/asicon/asicon2015.html#ZhaoHPWFY15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/socc/FuHWLZY15" mdate="2024-08-02">
+<author pid="176/0885">Jingyan Fu</author>
+<author pid="11/1801">Ligang Hou</author>
+<author pid="19/3636">Jinhui Wang</author>
+<author pid="91/4458">Bo Lu</author>
+<author pid="z/WeiZhao-1">Wei Zhao 0001</author>
+<author pid="48/450-3">Yang Yang 0003</author>
+<title>A novel thermal-aware structure of TSV cluster.</title>
+<pages>406-409</pages>
+<year>2015</year>
+<booktitle>SoCC</booktitle>
+<ee>https://doi.org/10.1109/SOCC.2015.7406993</ee>
+<crossref>conf/socc/2015</crossref>
+<url>db/conf/socc/socc2015.html#FuHWLZY15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/asicon/FengWWHK13" mdate="2017-05-25">
+<author pid="97/164">Chao Feng</author>
+<author pid="19/3636">Jinhui Wang</author>
+<author pid="95/6985">Wei Wu</author>
+<author pid="11/1801">Ligang Hou</author>
+<author pid="158/7408">Jianbo Kang</author>
+<title>CMOS 1.2V bandgap voltage reference design.</title>
+<pages>1-4</pages>
+<year>2013</year>
+<booktitle>ASICON</booktitle>
+<ee>https://doi.org/10.1109/ASICON.2013.6812039</ee>
+<crossref>conf/asicon/2013</crossref>
+<url>db/conf/asicon/asicon2013.html#FengWWHK13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/asicon/LiuWHYK13" mdate="2017-05-25">
+<author pid="87/793">Wenbin Liu</author>
+<author pid="19/3636">Jinhui Wang</author>
+<author pid="11/1801">Ligang Hou</author>
+<author pid="03/902">Hongyan Yang</author>
+<author pid="158/7408">Jianbo Kang</author>
+<title>Design and test of an SRAM chip.</title>
+<pages>1-4</pages>
+<year>2013</year>
+<booktitle>ASICON</booktitle>
+<ee>https://doi.org/10.1109/ASICON.2013.6812023</ee>
+<crossref>conf/asicon/2013</crossref>
+<url>db/conf/asicon/asicon2013.html#LiuWHYK13</url>
+</inproceedings>
+</r>
+<r><article key="journals/jssc/PengSHWW11" mdate="2020-08-30">
+<author pid="50/2098">Xiaohong Peng</author>
+<author pid="88/1200">Willy Sansen</author>
+<author pid="11/1801">Ligang Hou</author>
+<author pid="19/3636">Jinhui Wang</author>
+<author pid="78/301">Wuchen Wu</author>
+<title>Impedance Adapting Compensation for Low-Power Multistage Amplifiers.</title>
+<pages>445-451</pages>
+<year>2011</year>
+<volume>46</volume>
+<journal>IEEE J. Solid State Circuits</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/JSSC.2010.2090088</ee>
+<url>db/journals/jssc/jssc46.html#PengSHWW11</url>
+</article>
+</r>
+<r><article key="journals/mr/WangGHPSW11" mdate="2020-02-22">
+<author pid="19/3636">Jinhui Wang</author>
+<author pid="60/1284">Na Gong</author>
+<author pid="11/1801">Ligang Hou</author>
+<author pid="50/2098">Xiaohong Peng</author>
+<author pid="s/RamalingamSridhar">Ramalingam Sridhar</author>
+<author pid="78/301">Wuchen Wu</author>
+<title>Leakage current, active power, and delay analysis of dynamic dual V<sub>t</sub> CMOS circuits under P-V-T fluctuations.</title>
+<pages>1498-1502</pages>
+<year>2011</year>
+<volume>51</volume>
+<journal>Microelectron. Reliab.</journal>
+<number>9-11</number>
+<ee>https://doi.org/10.1016/j.microrel.2011.06.011</ee>
+<url>db/journals/mr/mr51.html#WangGHPSW11</url>
+</article>
+</r>
+<r><inproceedings key="conf/asicon/LiuWWPH11" mdate="2017-05-25">
+<author pid="87/793">Wenbin Liu</author>
+<author pid="19/3636">Jinhui Wang</author>
+<author pid="78/301">Wuchen Wu</author>
+<author pid="50/2098">Xiaohong Peng</author>
+<author pid="11/1801">Ligang Hou</author>
+<title>A study of dual-Vt configurations of an 8T SRAM cell in 45nm.</title>
+<pages>295-298</pages>
+<year>2011</year>
+<booktitle>ASICON</booktitle>
+<ee>https://doi.org/10.1109/ASICON.2011.6157180</ee>
+<crossref>conf/asicon/2011</crossref>
+<url>db/conf/asicon/asicon2011.html#LiuWWPH11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/asicon/HouBW11" mdate="2017-05-25">
+<author pid="11/1801">Ligang Hou</author>
+<author pid="181/7440">Shu Bai</author>
+<author pid="19/3636">Jinhui Wang</author>
+<title>TSV based 3D IC wire length calculation algorithm.</title>
+<pages>816-819</pages>
+<year>2011</year>
+<booktitle>ASICON</booktitle>
+<ee>https://doi.org/10.1109/ASICON.2011.6157330</ee>
+<crossref>conf/asicon/2011</crossref>
+<url>db/conf/asicon/asicon2011.html#HouBW11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/interaction/HouWW10" mdate="2021-03-01">
+<author pid="11/1801">Ligang Hou</author>
+<author pid="98/7827">Xinyi Wu</author>
+<author pid="78/301">Wuchen Wu</author>
+<title>Neural network based power estimation on chip specification.</title>
+<pages>187-190</pages>
+<year>2010</year>
+<booktitle>ICIS</booktitle>
+<ee>https://doi.org/10.1109/ICICIS.2010.5534739</ee>
+<crossref>conf/interaction/2010</crossref>
+<url>db/conf/interaction/interaction2010.html#HouWW10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isqed/WangWGH10" mdate="2017-05-25">
+<author pid="19/3636">Jinhui Wang</author>
+<author pid="78/301">Wuchen Wu</author>
+<author pid="60/1284">Na Gong</author>
+<author pid="11/1801">Ligang Hou</author>
+<title>Domino gate with modified voltage keeper.</title>
+<pages>443-446</pages>
+<year>2010</year>
+<booktitle>ISQED</booktitle>
+<ee>https://doi.org/10.1109/ISQED.2010.5450538</ee>
+<crossref>conf/isqed/2010</crossref>
+<url>db/conf/isqed/isqed2010.html#WangWGH10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/socc/WangGWH10" mdate="2017-05-23">
+<author pid="19/3636">Jinhui Wang</author>
+<author pid="60/1284">Na Gong</author>
+<author pid="78/301">Wuchen Wu</author>
+<author pid="11/1801">Ligang Hou</author>
+<title>Fan-in sensitive low power dynamic circuits performance statistical characterization.</title>
+<pages>321-325</pages>
+<year>2010</year>
+<booktitle>SoCC</booktitle>
+<ee>https://doi.org/10.1109/SOCC.2010.5784655</ee>
+<crossref>conf/socc/2010</crossref>
+<url>db/conf/socc/socc2010.html#WangGWH10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/swarm/ZuoHZGW10" mdate="2017-05-23">
+<author pid="35/1274">Lei Zuo</author>
+<author pid="11/1801">Ligang Hou</author>
+<author pid="91/4884">Wang Zhang</author>
+<author pid="94/6561">Shuqin Geng</author>
+<author pid="78/301">Wuchen Wu</author>
+<title>Application of PSO-Adaptive Neural-fuzzy Inference System (ANFIS) in Analog Circuit Fault Diagnosis.</title>
+<pages>51-57</pages>
+<year>2010</year>
+<booktitle>ICSI (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-13498-2_7</ee>
+<crossref>conf/swarm/2010-2</crossref>
+<url>db/conf/swarm/icsi2010-2.html#ZuoHZGW10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcnn/WangWGZHGZG09" mdate="2023-03-24">
+<author pid="19/3636">Jinhui Wang</author>
+<author pid="78/301">Wuchen Wu</author>
+<author pid="60/1284">Na Gong</author>
+<author pid="35/1274">Lei Zuo</author>
+<author pid="11/1801">Ligang Hou</author>
+<author pid="94/6561">Shuqin Geng</author>
+<author pid="91/4884">Wang Zhang</author>
+<author pid="41/6031">Daming Gao</author>
+<title>Switching and leakage power modeling for multiple-supply dynamic gate with delay constraining based on wavelet neural networks.</title>
+<pages>3240-3243</pages>
+<year>2009</year>
+<booktitle>IJCNN</booktitle>
+<ee>https://doi.org/10.1109/IJCNN.2009.5178734</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/IJCNN.2009.5178734</ee>
+<crossref>conf/ijcnn/2009</crossref>
+<url>db/conf/ijcnn/ijcnn2009.html#WangWGZHGZG09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isnn/ZuoHWWG09" mdate="2017-05-19">
+<author pid="35/1274">Lei Zuo</author>
+<author pid="11/1801">Ligang Hou</author>
+<author pid="78/301">Wuchen Wu</author>
+<author pid="19/3636">Jinhui Wang</author>
+<author pid="94/6561">Shuqin Geng</author>
+<title>Fault Diagnosis of Analog IC Based on Wavelet Neural Network Ensemble.</title>
+<pages>772-779</pages>
+<year>2009</year>
+<booktitle>ISNN (3)</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-01513-7_84</ee>
+<crossref>conf/isnn/2009-3</crossref>
+<url>db/conf/isnn/isnn2009-3.html#ZuoHWWG09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isnn/WangZGGGZHPW09" mdate="2017-05-19">
+<author pid="19/3636">Jinhui Wang</author>
+<author pid="35/1274">Lei Zuo</author>
+<author pid="60/1284">Na Gong</author>
+<author pid="41/6031">Daming Gao</author>
+<author pid="94/6561">Shuqin Geng</author>
+<author pid="91/4884">Wang Zhang</author>
+<author pid="11/1801">Ligang Hou</author>
+<author pid="50/2098">Xiaohong Peng</author>
+<author pid="78/301">Wuchen Wu</author>
+<title>Estimation for Speed and Leakage Power of Dual Threshold Domino OR Based on Wavelet Neural Networks.</title>
+<pages>844-851</pages>
+<year>2009</year>
+<booktitle>ISNN (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-01507-6_95</ee>
+<crossref>conf/isnn/2009-1</crossref>
+<url>db/conf/isnn/isnn2009-1.html#WangZGGGZHPW09</url>
+</inproceedings>
+</r>
+<coauthors n="54" nc="4">
+<co c="0"><na f="b/Bai:Shu" pid="181/7440">Shu Bai</na></co>
+<co c="0"><na f="b/Bai:Yuxin" pid="87/10979">Yuxin Bai</na></co>
+<co c="2"><na f="c/Cao:Jiangtao" pid="57/1997">Jiangtao Cao</na></co>
+<co c="0"><na f="c/Chen_0004:Xiaowei" pid="42/3145-4">Xiaowei Chen 0004</na></co>
+<co c="0"><na f="c/Chu:Menghao" pid="255/2409">Menghao Chu</na></co>
+<co c="0"><na f="f/Fan:Fangwen" pid="251/2083">Fangwen Fan</na></co>
+<co c="0"><na f="f/Feng:Chao" pid="97/164">Chao Feng</na></co>
+<co c="0"><na f="f/Fu:Jingyan" pid="176/0885">Jingyan Fu</na></co>
+<co c="0"><na f="g/Gao:Daming" pid="41/6031">Daming Gao</na></co>
+<co c="0"><na f="g/Gao:Deyang" pid="223/1024">Deyang Gao</na></co>
+<co c="0"><na f="g/Geng:Shuqin" pid="94/6561">Shuqin Geng</na></co>
+<co c="0"><na f="g/Gong:Na" pid="60/1284">Na Gong</na></co>
+<co c="2"><na f="g/Guo:Yingqiang" pid="26/11209">Yingqiang Guo</na></co>
+<co c="0"><na f="h/Haring:Frederik" pid="261/4537">Frederik Haring</na></co>
+<co c="0"><na f="h/Hou:Yupeng" pid="255/2277">Yupeng Hou</na></co>
+<co c="1"><na f="j/Jin_0006:Xin" pid="68/3340-6">Xin Jin 0006</na></co>
+<co c="0"><na f="k/Kang:Jianbo" pid="158/7408">Jianbo Kang</na></co>
+<co c="0"><na f="l/Li:Mingli" pid="126/2379">Mingli Li</na></co>
+<co c="0"><na f="l/Liang:Qian" pid="06/66">Qian Liang</na></co>
+<co c="0"><na f="l/Liang:Xiang" pid="176/7040">Xiang Liang</na></co>
+<co c="0"><na f="l/Lin:Zhibin" pid="25/2942">Zhibin Lin</na></co>
+<co c="0"><na f="l/Liu:Wenbin" pid="87/793">Wenbin Liu</na></co>
+<co c="0"><na f="l/Lu:Bo" pid="91/4458">Bo Lu</na></co>
+<co c="0"><na f="p/Peng:Xiaohong" pid="50/2098">Xiaohong Peng</na></co>
+<co c="0"><na f="p/Pourbakhsh:Seyed_Alireza" pid="180/6598">Seyed Alireza Pourbakhsh</na></co>
+<co c="0"><na f="r/Ru:Feng" pid="213/9289">Feng Ru</na></co>
+<co c="0" n="2"><na f="s/Sansen:Willy_M=_C=" pid="88/1200">Willy M. C. Sansen</na><na>Willy Sansen</na></co>
+<co c="3"><na f="s/Shen:Xin" pid="75/6206">Xin Shen</na></co>
+<co c="0"><na f="s/Song:Chen" pid="14/5979">Chen Song</na></co>
+<co c="0"><na f="s/Sridhar:Ramalingam" pid="s/RamalingamSridhar">Ramalingam Sridhar</na></co>
+<co c="0"><na f="w/Wan:Peiyuan" pid="29/10189">Peiyuan Wan</na></co>
+<co c="0"><na f="w/Wang:Heng" pid="61/5618">Heng Wang</na></co>
+<co c="0"><na f="w/Wang:Jinhui" pid="19/3636">Jinhui Wang</na></co>
+<co c="1"><na f="w/Wang_0013:Yue" pid="33/4822-13">Yue Wang 0013</na></co>
+<co c="0"><na f="w/Wu:Wei" pid="95/6985">Wei Wu</na></co>
+<co c="0"><na f="w/Wu:Wuchen" pid="78/301">Wuchen Wu</na></co>
+<co c="0"><na f="w/Wu:Xinyi" pid="98/7827">Xinyi Wu</na></co>
+<co c="1"><na f="w/Wu_0002:Ze" pid="235/9936-2">Ze Wu 0002</na></co>
+<co c="0"><na f="y/Yang:Chunhui" pid="39/590">Chunhui Yang</na></co>
+<co c="0"><na f="y/Yang:Hongyan" pid="03/902">Hongyan Yang</na></co>
+<co c="0"><na f="y/Yang:Yang" pid="48/450">Yang Yang</na></co>
+<co c="0"><na f="y/Yang_0003:Yang" pid="48/450-3">Yang Yang 0003</na></co>
+<co c="0"><na f="y/Yang:Zezhong" pid="177/6285">Zezhong Yang</na></co>
+<co c="0"><na f="y/Ye:Tongyang" pid="212/7535">Tongyang Ye</na></co>
+<co c="0"><na f="y/Yin:Haibin" pid="90/6197">Haibin Yin</na></co>
+<co c="0"><na f="z/Zhang:Junteng" pid="223/1144">Junteng Zhang</na></co>
+<co c="3"><na f="z/Zhang:Liqi" pid="71/6048">Liqi Zhang</na></co>
+<co c="0"><na f="z/Zhang:Shier" pid="212/7435">Shier Zhang</na></co>
+<co c="0"><na f="z/Zhang:Wang" pid="91/4884">Wang Zhang</na></co>
+<co c="0"><na f="z/Zhao:Wei" pid="181/2852">Wei Zhao</na></co>
+<co c="0"><na f="z/Zhao_0001:Wei" pid="z/WeiZhao-1">Wei Zhao 0001</na></co>
+<co c="0"><na f="z/Zhi:Jingsong" pid="223/1064">Jingsong Zhi</na></co>
+<co c="0"><na f="z/Zhu:Lin" pid="181/2882">Lin Zhu</na></co>
+<co c="0"><na f="z/Zuo:Lei" pid="35/1274">Lei Zuo</na></co>
+</coauthors>
+</dblpperson>
+

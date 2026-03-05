@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<dblpperson name="Soo-Min Kwak" pid="123/1647" n="2">
+<person key="homepages/123/1647" mdate="2012-12-17">
+<author pid="123/1647">Soo-Min Kwak</author>
+</person>
+<r><article key="journals/cbsn/ChoKL13" mdate="2020-03-31">
+<author pid="31/10202">Ara Cho</author>
+<author pid="123/1647">Soo-Min Kwak</author>
+<author pid="03/3642">Jang-Han Lee</author>
+<title>Identifying Attentional Bias and Emotional Response After Appearance-Related Stimuli Exposure.</title>
+<pages>50-55</pages>
+<year>2013</year>
+<volume>16</volume>
+<journal>Cyberpsychology Behav. Soc. Netw.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1089/cyber.2012.0223</ee>
+<ee>https://www.wikidata.org/entity/Q36545919</ee>
+<url>db/journals/cbsn/cbsn16.html#ChoKL13</url>
+</article>
+</r>
+<r><article key="journals/cbsn/KwakNKKL07" mdate="2020-03-31">
+<author pid="123/1647">Soo-Min Kwak</author>
+<author pid="73/11370">Duk L. Na</author>
+<author pid="122/9091">Gho Kim</author>
+<author pid="123/1304">Gye Seok Kim</author>
+<author pid="03/3642">Jang-Han Lee</author>
+<title>Use of Eye Movement to Measure Smokers' Attentional Bias to Smoking-Related Cues.</title>
+<pages>299-304</pages>
+<year>2007</year>
+<volume>10</volume>
+<journal>Cyberpsychology Behav. Soc. Netw.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1089/cpb.2006.9953</ee>
+<ee>https://www.wikidata.org/entity/Q48402857</ee>
+<url>db/journals/cbsn/cbsn10.html#KwakNKKL07</url>
+</article>
+</r>
+<coauthors n="5" nc="1">
+<co c="0" n="2"><na f="c/Cho:A=Ra" pid="31/10202">A-Ra Cho</na><na>Ara Cho</na></co>
+<co c="0"><na f="k/Kim:Gho" pid="122/9091">Gho Kim</na></co>
+<co c="0"><na f="k/Kim:Gye_Seok" pid="123/1304">Gye Seok Kim</na></co>
+<co c="0"><na f="l/Lee:Jang=Han" pid="03/3642">Jang-Han Lee</na></co>
+<co c="0"><na f="n/Na:Duk_L=" pid="73/11370">Duk L. Na</na></co>
+</coauthors>
+</dblpperson>
+

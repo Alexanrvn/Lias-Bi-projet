@@ -1,0 +1,204 @@
+<?xml version="1.0"?>
+<dblpperson name="Judith A. Markowitz" pid="84/4234" n="14">
+<person key="homepages/84/4234" mdate="2016-03-02">
+<author pid="84/4234">Judith A. Markowitz</author>
+<note type="affiliation">Markowitz Consultants, Chicago, IL, USA</note>
+<note type="affiliation">De Paul University, Chicago, IL, USA</note>
+</person>
+<r><incollection publtype="encyclopedia" key="reference/bio/Markowitz15" mdate="2017-07-12">
+<author pid="84/4234">Judith A. Markowitz</author>
+<title>Remote Authentication.</title>
+<pages>1307-1315</pages>
+<year>2015</year>
+<booktitle>Encyclopedia of Biometrics</booktitle>
+<ee>https://doi.org/10.1007/978-1-4899-7488-4_30</ee>
+<crossref>reference/bio/2015</crossref>
+<url>db/reference/bio/2.html#Markowitz15</url>
+</incollection>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/bio/Markowitz15a" mdate="2017-07-12">
+<author pid="84/4234">Judith A. Markowitz</author>
+<title>Speaker Recognition, Standardization.</title>
+<pages>1471-1479</pages>
+<year>2015</year>
+<booktitle>Encyclopedia of Biometrics</booktitle>
+<ee>https://doi.org/10.1007/978-1-4899-7488-4_240</ee>
+<crossref>reference/bio/2015</crossref>
+<url>db/reference/bio/2.html#Markowitz15a</url>
+</incollection>
+</r>
+<r><article key="journals/telsys/BeigiM11" mdate="2020-10-26">
+<author orcid="0000-0003-0127-2385" pid="53/332">Homayoon S. M. Beigi</author>
+<author pid="84/4234">Judith A. Markowitz</author>
+<title>Standard audio format encapsulation (SAFE).</title>
+<pages>235-242</pages>
+<year>2011</year>
+<volume>47</volume>
+<journal>Telecommun. Syst.</journal>
+<number>3-4</number>
+<ee>https://doi.org/10.1007/s11235-010-9315-1</ee>
+<url>db/journals/telsys/telsys47.html#BeigiM11</url>
+</article>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/bio/Markowitz09" mdate="2017-07-12">
+<author pid="84/4234">Judith A. Markowitz</author>
+<title>Remote Authentication.</title>
+<pages>1119-1127</pages>
+<year>2009</year>
+<booktitle>Encyclopedia of Biometrics</booktitle>
+<ee>https://doi.org/10.1007/978-0-387-73003-5_30</ee>
+<crossref>reference/bio/2009</crossref>
+<url>db/reference/bio/r.html#Markowitz09</url>
+</incollection>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/bio/Markowitz09a" mdate="2017-07-12">
+<author pid="84/4234">Judith A. Markowitz</author>
+<title>Speaker Recognition, Standardization.</title>
+<pages>1270-1277</pages>
+<year>2009</year>
+<booktitle>Encyclopedia of Biometrics</booktitle>
+<ee>https://doi.org/10.1007/978-0-387-73003-5_240</ee>
+<crossref>reference/bio/2009</crossref>
+<url>db/reference/bio/s.html#Markowitz09a</url>
+</incollection>
+</r>
+<r><inproceedings key="conf/speakerc/Markowitz07" mdate="2017-05-24">
+<author pid="84/4234">Judith A. Markowitz</author>
+<title>The Many Roles of Speaker Classification in Speaker Verification and Identification.</title>
+<pages>218-225</pages>
+<year>2007</year>
+<crossref>conf/speakerc/2007-1</crossref>
+<booktitle>Speaker Classification (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-74200-5_12</ee>
+<url>db/conf/speakerc/speakerc2007-1.html#Markowitz07</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijst/Markowitz05" mdate="2020-06-08">
+<author pid="84/4234">Judith A. Markowitz</author>
+<title>&#34;The Art and Business of Speech Recognition: Creating the Noble Voice&#34;.</title>
+<pages>105-107</pages>
+<year>2005</year>
+<volume>8</volume>
+<journal>Int. J. Speech Technol.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s10772-005-4765-7</ee>
+<url>db/journals/ijst/ijst8.html#Markowitz05</url>
+</article>
+</r>
+<r><article key="journals/cacm/Markowitz00" mdate="2018-11-06">
+<author pid="84/4234">Judith A. Markowitz</author>
+<title>Voice biometrics.</title>
+<pages>66-73</pages>
+<year>2000</year>
+<volume>43</volume>
+<journal>Commun. ACM</journal>
+<number>9</number>
+<ee>https://doi.org/10.1145/348941.348995</ee>
+<url>db/journals/cacm/cacm43.html#Markowitz00</url>
+</article>
+</r>
+<r><article key="journals/istr/Markowitz98" mdate="2020-05-18">
+<author pid="84/4234">Judith A. Markowitz</author>
+<title>Speaker recognition.</title>
+<pages>14-20</pages>
+<year>1998</year>
+<volume>3</volume>
+<journal>Inf. Secur. Tech. Rep.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1016/S1363-4127(98)80014-9</ee>
+<url>db/journals/istr/istr3.html#Markowitz98</url>
+</article>
+</r>
+<r><inproceedings key="conf/siglex/EvensDHLMRRS91" mdate="2017-05-20">
+<author pid="e/MarthaWEvens">Martha W. Evens</author>
+<author pid="00/3476">Joanne Dardaine</author>
+<author pid="51/4612">Yu-Feng Huang</author>
+<author pid="63/2922">Sun M. Li</author>
+<author pid="84/4234">Judith A. Markowitz</author>
+<author pid="21/1377">Frank J. Rinaldo</author>
+<author pid="88/362">Margi Rinaldo</author>
+<author pid="25/414">Robert Strutz</author>
+<title>For the Lexicon that Has Everything.</title>
+<pages>219-233</pages>
+<year>1991</year>
+<crossref>conf/siglex/1991</crossref>
+<booktitle>SIGLEX Workshop</booktitle>
+<url>db/conf/siglex/siglex1991.html#EvensDHLMRRS91</url>
+<ee>https://doi.org/10.1007/3-540-55801-2_37</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/compsac/Markowitz89" mdate="2017-05-21">
+<author pid="84/4234">Judith A. Markowitz</author>
+<title>Next Steps: Navistar's compensation reserve expert system advisor.</title>
+<pages>781-782</pages>
+<year>1989</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/CMPSAC.1989.65184</ee>
+<crossref>conf/compsac/1989</crossref>
+<url>db/conf/compsac/compsac1989.html#Markowitz89</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/anlp/FoxNAEM88" mdate="2021-08-06">
+<author pid="f/EdwardAFox">Edward A. Fox</author>
+<author pid="21/4000">Jane Terry Nutter</author>
+<author pid="14/126">Thomas Ahlswede</author>
+<author pid="e/MarthaWEvens">Martha W. Evens</author>
+<author pid="84/4234">Judith A. Markowitz</author>
+<title>Building A Large Thesaurus For Information Retrieval.</title>
+<pages>101-108</pages>
+<year>1988</year>
+<crossref>conf/anlp/1988</crossref>
+<booktitle>ANLP</booktitle>
+<ee type="oa">https://aclanthology.org/A88-1014/</ee>
+<ee>https://doi.org/10.3115/974235.974253</ee>
+<url>db/conf/anlp/anlp1988.html#FoxNAEM88</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/riao/EvensAANCM88" mdate="2023-01-19">
+<author pid="e/MarthaWEvens">Martha W. Evens</author>
+<author pid="14/126">Thomas Ahlswede</author>
+<author pid="15/5543">J. Anderson</author>
+<author pid="337/9512">James Neises</author>
+<author pid="16/4374">Sumali Pin-Ngern Conlon</author>
+<author pid="84/4234">Judith A. Markowitz</author>
+<title>Automatic Construction of a Phrasal Thesaurus for an Information Retrieval System from a Machine Readable Dictionary.</title>
+<pages>597-608</pages>
+<year>1988</year>
+<booktitle>RIAO</booktitle>
+<crossref>conf/riao/1988</crossref>
+<url>db/conf/riao/riao1988.html#EvensAANCM88</url>
+<ee>https://dl.acm.org/doi/10.5555/3374430.3374484</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/acl/MarkowitzAE86" mdate="2021-08-06">
+<author pid="84/4234">Judith A. Markowitz</author>
+<author pid="14/126">Thomas Ahlswede</author>
+<author pid="e/MarthaWEvens">Martha W. Evens</author>
+<title>Semantically Significant Patterns in Dictionary Definitions.</title>
+<pages>112-119</pages>
+<year>1986</year>
+<booktitle>ACL</booktitle>
+<ee type="oa">https://aclanthology.org/P86-1018/</ee>
+<ee>https://doi.org/10.3115/981131.981149</ee>
+<crossref>conf/acl/1986</crossref>
+<url>db/conf/acl/acl1986.html#MarkowitzAE86</url>
+</inproceedings>
+</r>
+<coauthors n="14" nc="1">
+<co c="0"><na f="a/Ahlswede:Thomas" pid="14/126">Thomas Ahlswede</na></co>
+<co c="0"><na f="a/Anderson:J=" pid="15/5543">J. Anderson</na></co>
+<co c="-1"><na f="b/Beigi:Homayoon_S=_M=" pid="53/332">Homayoon S. M. Beigi</na></co>
+<co c="0"><na f="c/Conlon:Sumali_Pin=Ngern" pid="16/4374">Sumali Pin-Ngern Conlon</na></co>
+<co c="0"><na f="d/Dardaine:Joanne" pid="00/3476">Joanne Dardaine</na></co>
+<co c="0"><na f="e/Evens:Martha_W=" pid="e/MarthaWEvens">Martha W. Evens</na></co>
+<co c="0"><na f="f/Fox:Edward_A=" pid="f/EdwardAFox">Edward A. Fox</na></co>
+<co c="0"><na f="h/Huang:Yu=Feng" pid="51/4612">Yu-Feng Huang</na></co>
+<co c="0"><na f="l/Li:Sun_M=" pid="63/2922">Sun M. Li</na></co>
+<co c="0"><na f="n/Neises:James" pid="337/9512">James Neises</na></co>
+<co c="0"><na f="n/Nutter:Jane_Terry" pid="21/4000">Jane Terry Nutter</na></co>
+<co c="0"><na f="r/Rinaldo:Frank_J=" pid="21/1377">Frank J. Rinaldo</na></co>
+<co c="0"><na f="r/Rinaldo:Margi" pid="88/362">Margi Rinaldo</na></co>
+<co c="0"><na f="s/Strutz:Robert" pid="25/414">Robert Strutz</na></co>
+</coauthors>
+</dblpperson>
+

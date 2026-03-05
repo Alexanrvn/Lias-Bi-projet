@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<dblpperson name="Shu-Yin Hung" pid="75/2088" n="1">
+<person key="homepages/75/2088" mdate="2009-06-09">
+<author pid="75/2088">Shu-Yin Hung</author>
+</person>
+<r><inproceedings key="conf/iwsoc/ChengLYH03" mdate="2023-03-23">
+<author pid="23/6083">Kuo-Hsing Cheng</author>
+<author pid="34/3266">Yu-Lung Lo</author>
+<author pid="23/2942">Wen Fang Yu</author>
+<author pid="75/2088">Shu-Yin Hung</author>
+<title>A Mixed-Mode Delay-Locked Loop for Wide-Range Operation and Multiphase Clock Generation.</title>
+<pages>90-93</pages>
+<year>2003</year>
+<crossref>conf/iwsoc/2003</crossref>
+<booktitle>IWSOC</booktitle>
+<ee>https://doi.org/10.1109/IWSOC.2003.1213012</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/IWSOC.2003.1213012</ee>
+<url>db/conf/iwsoc/iwsoc2003.html#ChengLYH03</url>
+</inproceedings>
+</r>
+<coauthors n="3" nc="1">
+<co c="0"><na f="c/Cheng:Kuo=Hsing" pid="23/6083">Kuo-Hsing Cheng</na></co>
+<co c="0"><na f="l/Lo:Yu=Lung" pid="34/3266">Yu-Lung Lo</na></co>
+<co c="0"><na f="y/Yu:Wen_Fang" pid="23/2942">Wen Fang Yu</na></co>
+</coauthors>
+</dblpperson>
+

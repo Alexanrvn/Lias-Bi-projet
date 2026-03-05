@@ -1,0 +1,24 @@
+version: '3.8'
+
+services:
+  api:
+    build:
+      context: ./scripts
+      dockerfile: Dockerfile.api
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./data:/data
+      - ./cache:/cache
+
+  dashboard:
+    build:
+      context: ./scripts
+      dockerfile: Dockerfile.dashboard
+    ports:
+      - "8501:8501"
+    depends_on:
+      - api
+    environment:
+      # On dit au Dashboard de parler à l'API via le réseau interne de Docker
+      - API_URL=http://api:8000

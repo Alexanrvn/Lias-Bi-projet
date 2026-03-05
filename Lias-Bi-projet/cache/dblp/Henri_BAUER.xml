@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<dblpperson name="Maureen Kilmade" pid="183/6045" n="1">
+<person key="homepages/183/6045" mdate="2016-07-31">
+<author pid="183/6045">Maureen Kilmade</author>
+</person>
+<r><article key="journals/jocn/LeePKBCJM16" mdate="2021-10-14">
+<author pid="183/6035">Stephen M. Lee</author>
+<author orcid="0000-0002-5934-6183" pid="183/6044">Alicia Peltsch</author>
+<author pid="183/6045">Maureen Kilmade</author>
+<author pid="22/623">Donald C. Brien</author>
+<author orcid="0000-0002-3985-0163" pid="89/8257">Brian C. Coe</author>
+<author orcid="0000-0002-7810-1333" pid="51/4615">Ingrid S. Johnsrude</author>
+<author pid="08/8257">Douglas P. Munoz</author>
+<title>Neural Correlates of Predictive Saccades.</title>
+<pages>1210-1227</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>J. Cogn. Neurosci.</journal>
+<number>8</number>
+<ee>https://doi.org/10.1162/jocn_a_00968</ee>
+<ee>https://www.wikidata.org/entity/Q52141663</ee>
+<url>db/journals/jocn/jocn28.html#LeePKBCJM16</url>
+</article>
+</r>
+<coauthors n="6" nc="1">
+<co c="0"><na f="b/Brien:Donald_C=" pid="22/623">Donald C. Brien</na></co>
+<co c="0"><na f="c/Coe:Brian_C=" pid="89/8257">Brian C. Coe</na></co>
+<co c="0"><na f="j/Johnsrude:Ingrid_S=" pid="51/4615">Ingrid S. Johnsrude</na></co>
+<co c="0"><na f="l/Lee:Stephen_M=" pid="183/6035">Stephen M. Lee</na></co>
+<co c="0"><na f="m/Munoz:Douglas_P=" pid="08/8257">Douglas P. Munoz</na></co>
+<co c="0"><na f="p/Peltsch:Alicia" pid="183/6044">Alicia Peltsch</na></co>
+</coauthors>
+</dblpperson>
+

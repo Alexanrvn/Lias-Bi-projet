@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<dblpperson name="Donghui Kim" pid="214/1569" n="1">
+<person key="homepages/214/1569" mdate="2018-02-09">
+<author pid="214/1569">Donghui Kim</author>
+</person>
+<r><article key="journals/isem/ShinKPO18" mdate="2025-08-05">
+<author orcid="0000-0001-6809-6537" pid="214/1524">Nina Shin</author>
+<author orcid="0009-0002-8544-4702" pid="214/1569">Donghui Kim</author>
+<author orcid="0000-0002-3235-5303" pid="65/364">Sangwook Park</author>
+<author pid="59/8045">Jungsuk Oh</author>
+<title>The moderation effects of mobile technology advancement and system barrier on m-commerce channel preference behavior.</title>
+<pages>125-154</pages>
+<year>2018</year>
+<volume>16</volume>
+<journal>Inf. Syst. E Bus. Manag.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s10257-017-0345-z</ee>
+<url>db/journals/isem/isem16.html#ShinKPO18</url>
+</article>
+</r>
+<coauthors n="3" nc="1">
+<co c="0"><na f="o/Oh:Jungsuk" pid="59/8045">Jungsuk Oh</na></co>
+<co c="0"><na f="p/Park:Sangwook" pid="65/364">Sangwook Park</na></co>
+<co c="0"><na f="s/Shin:Nina" pid="214/1524">Nina Shin</na></co>
+</coauthors>
+</dblpperson>
+

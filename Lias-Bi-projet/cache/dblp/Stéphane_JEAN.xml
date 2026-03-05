@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<dblpperson name="Roswitha Senske" pid="15/4674" n="1">
+<person key="homepages/15/4674" mdate="2009-06-10">
+<author pid="15/4674">Roswitha Senske</author>
+</person>
+<r><article key="journals/bioinformatics/NeuhauserS04" mdate="2020-03-02">
+<author pid="13/856">Markus Neuh&#228;user</author>
+<author pid="15/4674">Roswitha Senske</author>
+<title>The Baumgartner-Wei?-Schindler test for the detection of differentially expressed genes in replicated microarray experiments.</title>
+<pages>3553-3564</pages>
+<year>2004</year>
+<volume>20</volume>
+<journal>Bioinform.</journal>
+<number>18</number>
+<ee>https://doi.org/10.1093/bioinformatics/bth442</ee>
+<ee>https://www.wikidata.org/entity/Q44695458</ee>
+<url>db/journals/bioinformatics/bioinformatics20.html#NeuhauserS04</url>
+</article>
+</r>
+<coauthors n="1" nc="0">
+<co c="-1"><na f="n/Neuh=auml=user:Markus" pid="13/856">Markus Neuh&#228;user</na></co>
+</coauthors>
+</dblpperson>
+

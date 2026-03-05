@@ -1,0 +1,387 @@
+<?xml version="1.0"?>
+<dblpperson name="Matthieu Exbrayat" pid="10/6448" n="26">
+<person key="homepages/10/6448" mdate="2009-06-10">
+<author pid="10/6448">Matthieu Exbrayat</author>
+</person>
+<r><inproceedings key="conf/f-egc/MartinetCEF25" mdate="2025-06-02">
+<author pid="388/7303">Thibaut Martinet</author>
+<author pid="61/545">Guillaume Cleuziou</author>
+<author pid="10/6448">Matthieu Exbrayat</author>
+<author pid="53/1920">Fr&#233;d&#233;ric Flouvat</author>
+<title>De repr&#233;sentations de documents &#224; programmes : l'hypoth&#232;se distributionnelle peut-elle vraiment &#234;tre utilis&#233;e sur les langages de programmation?</title>
+<pages>427-434</pages>
+<year>2025</year>
+<booktitle>EGC</booktitle>
+<ee type="oa">http://editions-rnti.fr/?inprocid=1003042</ee>
+<crossref>conf/f-egc/2025</crossref>
+<url>db/conf/f-egc/egc2025.html#MartinetCEF25</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/MartinetCEF24" mdate="2025-01-15">
+<author orcid="0000-0002-0170-9260" pid="388/7303">Thibaut Martinet</author>
+<author orcid="0000-0002-2885-1152" pid="61/545">Guillaume Cleuziou</author>
+<author orcid="0000-0002-1740-4752" pid="10/6448">Matthieu Exbrayat</author>
+<author orcid="0000-0001-7288-0498" pid="53/1920">Fr&#233;d&#233;ric Flouvat</author>
+<title>From Document to Program Embeddings: Can Distributional Hypothesis Really Be Used on Programming Languages?</title>
+<pages>2138-2145</pages>
+<year>2024</year>
+<booktitle>ECAI</booktitle>
+<ee type="oa">https://doi.org/10.3233/FAIA240733</ee>
+<crossref>conf/ecai/2024</crossref>
+<url>db/conf/ecai/ecai2024.html#MartinetCEF24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccvw/BrahimTEJ23" mdate="2024-01-10">
+<author pid="247/2751">Khawla Brahim</author>
+<author pid="09/4564">Sylvie Treuillet</author>
+<author pid="10/6448">Matthieu Exbrayat</author>
+<author pid="173/8838">S&#233;bastien Jesset</author>
+<title>Facsimiles-based deep learning for matching relief-printed decorations on medieval ceramic sherds.</title>
+<pages>1605-1614</pages>
+<year>2023</year>
+<booktitle>ICCV (Workshops)</booktitle>
+<ee>https://doi.org/10.1109/ICCVW60793.2023.00176</ee>
+<crossref>conf/iccvw/2023</crossref>
+<url>db/conf/iccvw/iccvw2023.html#BrahimTEJ23</url>
+</inproceedings>
+</r>
+<r><article key="journals/prl/ChetouaniTEJ20" mdate="2025-01-19">
+<author pid="00/7269">Aladine Chetouani</author>
+<author pid="09/4564">Sylvie Treuillet</author>
+<author pid="10/6448">Matthieu Exbrayat</author>
+<author pid="173/8838">S&#233;bastien Jesset</author>
+<title>Classification of engraved pottery sherds mixing deep-learning features by compact bilinear pooling.</title>
+<pages>1-7</pages>
+<year>2020</year>
+<volume>131</volume>
+<journal>Pattern Recognit. Lett.</journal>
+<ee>https://doi.org/10.1016/j.patrec.2019.12.009</ee>
+<ee>https://www.wikidata.org/entity/Q126581731</ee>
+<url>db/journals/prl/prl131.html#ChetouaniTEJ20</url>
+</article>
+</r>
+<r><inproceedings key="conf/icip/ChetouaniDTEJ18" mdate="2018-09-11">
+<author pid="00/7269">Aladine Chetouani</author>
+<author pid="173/8824">Teddy Debroutelle</author>
+<author pid="09/4564">Sylvie Treuillet</author>
+<author pid="10/6448">Matthieu Exbrayat</author>
+<author pid="173/8838">S&#233;bastien Jesset</author>
+<title>Classification of Ceramic Shards Based on Convolutional Neural Network.</title>
+<pages>1038-1042</pages>
+<year>2018</year>
+<booktitle>ICIP</booktitle>
+<ee>https://doi.org/10.1109/ICIP.2018.8451728</ee>
+<crossref>conf/icip/2018</crossref>
+<url>db/conf/icip/icip2018.html#ChetouaniDTEJ18</url>
+</inproceedings>
+</r>
+<r><article key="journals/jei/DebroutelleTCEM17" mdate="2017-07-07">
+<author pid="173/8824">Teddy Debroutelle</author>
+<author pid="09/4564">Sylvie Treuillet</author>
+<author pid="00/7269">Aladine Chetouani</author>
+<author pid="10/6448">Matthieu Exbrayat</author>
+<author pid="10/6173">Lionel Martin</author>
+<author pid="173/8838">S&#233;bastien Jesset</author>
+<title>Automatic classification of ceramic sherds with relief motifs.</title>
+<pages>23010</pages>
+<year>2017</year>
+<volume>26</volume>
+<journal>J. Electronic Imaging</journal>
+<number>2</number>
+<ee>https://doi.org/10.1117/1.JEI.26.2.023010</ee>
+<url>db/journals/jei/jei26.html#DebroutelleTCEM17</url>
+</article>
+</r>
+<r><inproceedings key="conf/f-egc/MartinEDCTJ16" mdate="2024-11-06">
+<author pid="10/6173">Lionel Martin</author>
+<author pid="10/6448">Matthieu Exbrayat</author>
+<author pid="173/8824">Teddy Debroutelle</author>
+<author pid="00/7269">Aladine Chetouani</author>
+<author pid="09/4564">Sylvie Treuillet</author>
+<author pid="173/8838">S&#233;bastien Jesset</author>
+<title>Recherche de groupes parall&#232;les en classification non-supervis&#233;e.</title>
+<pages>69-80</pages>
+<year>2016</year>
+<booktitle>EGC</booktitle>
+<ee type="oa">https://editions-rnti.fr/?inprocid=1002157</ee>
+<crossref>conf/f-egc/2016</crossref>
+<url>db/conf/f-egc/egc2016.html#MartinEDCTJ16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isspit/DebroutelleCTEJ16" mdate="2017-05-19">
+<author pid="173/8824">Teddy Debroutelle</author>
+<author pid="00/7269">Aladine Chetouani</author>
+<author pid="09/4564">Sylvie Treuillet</author>
+<author pid="10/6448">Matthieu Exbrayat</author>
+<author pid="173/8838">S&#233;bastien Jesset</author>
+<title>Classification of friezes engraved on ceramic sherds from 3D scans.</title>
+<pages>218-222</pages>
+<year>2016</year>
+<booktitle>ISSPIT</booktitle>
+<ee>https://doi.org/10.1109/ISSPIT.2016.7886038</ee>
+<crossref>conf/isspit/2016</crossref>
+<url>db/conf/isspit/isspit2016.html#DebroutelleCTEJ16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ipta/DebroutelleJCTE15" mdate="2017-05-19">
+<author pid="173/8824">Teddy Debroutelle</author>
+<author pid="36/2604">Romain Janvier</author>
+<author pid="00/7269">Aladine Chetouani</author>
+<author pid="09/4564">Sylvie Treuillet</author>
+<author pid="10/6448">Matthieu Exbrayat</author>
+<author pid="10/6173">Lionel Martin</author>
+<author pid="173/8838">S&#233;bastien Jesset</author>
+<title>Automatic pattern recognition on archaeological ceramic by 2D and 3D image analysis: A feasibility study.</title>
+<pages>224-228</pages>
+<year>2015</year>
+<booktitle>IPTA</booktitle>
+<ee>https://doi.org/10.1109/IPTA.2015.7367133</ee>
+<crossref>conf/ipta/2015</crossref>
+<url>db/conf/ipta/ipta2015.html#DebroutelleJCTE15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/soict/HoanE13" mdate="2018-11-06">
+<author pid="138/9436">Mai Van Hoan</author>
+<author pid="10/6448">Matthieu Exbrayat</author>
+<title>Time series symbolization and search for frequent patterns.</title>
+<pages>108-117</pages>
+<year>2013</year>
+<booktitle>SoICT</booktitle>
+<ee>https://doi.org/10.1145/2542050.2542057</ee>
+<crossref>conf/soict/2013</crossref>
+<url>db/conf/soict/soict2013.html#HoanE13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ilp/DinhVE12" mdate="2023-03-10">
+<author pid="21/8730">Quang-Thang Dinh</author>
+<author pid="v/ChristelVrain">Christel Vrain</author>
+<author pid="10/6448">Matthieu Exbrayat</author>
+<title>A Link-Based Method for Propositionalization.</title>
+<pages>10-25</pages>
+<year>2012</year>
+<booktitle>ILP (Late Breaking Papers)</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-975/paper-01.pdf</ee>
+<crossref>conf/ilp/2012lbr</crossref>
+<url>db/conf/ilp/ilp2012lbp.html#DinhVE12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/f-egc/DinhEV11" mdate="2024-11-06">
+<author pid="21/8730">Quang-Thang Dinh</author>
+<author pid="10/6448">Matthieu Exbrayat</author>
+<author pid="v/ChristelVrain">Christel Vrain</author>
+<title>Apprentissage g&#233;n&#233;ratif de la structure de r&#233;seaux logiques de Markov &#224; partir d'un graphe des pr&#233;dicats.</title>
+<pages>413-424</pages>
+<year>2011</year>
+<booktitle>EGC</booktitle>
+<crossref>conf/f-egc/2011</crossref>
+<url>db/conf/f-egc/egc2011.html#DinhEV11</url>
+<ee type="oa">https://editions-rnti.fr/?inprocid=1000993</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdm/SublemontierMCE11" mdate="2023-03-24">
+<author pid="74/1356">Jacques-Henri Sublemontier</author>
+<author pid="10/6173">Lionel Martin</author>
+<author pid="61/545">Guillaume Cleuziou</author>
+<author pid="10/6448">Matthieu Exbrayat</author>
+<title>Integrating Pairwise Constraints into Clustering Algorithms: Optimization-Based Approaches.</title>
+<pages>272-279</pages>
+<year>2011</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2011.103</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDMW.2011.103</ee>
+<crossref>conf/icdm/2011w</crossref>
+<url>db/conf/icdm/icdmw2011.html#SublemontierMCE11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/DinhEV11" mdate="2017-05-23">
+<author pid="21/8730">Quang-Thang Dinh</author>
+<author pid="10/6448">Matthieu Exbrayat</author>
+<author pid="v/ChristelVrain">Christel Vrain</author>
+<title>Generative Structure Learning for Markov Logic Networks Based on Graph of Predicates.</title>
+<pages>1249-1254</pages>
+<year>2011</year>
+<booktitle>IJCAI</booktitle>
+<ee>https://doi.org/10.5591/978-1-57735-516-8/IJCAI11-212</ee>
+<crossref>conf/ijcai/2011</crossref>
+<url>db/conf/ijcai/ijcai2011.html#DinhEV11</url>
+</inproceedings>
+</r>
+<r><incollection key="series/rnti/SublemontierCEM11" mdate="2014-05-01">
+<author pid="74/1356">Jacques-Henri Sublemontier</author>
+<author pid="61/545">Guillaume Cleuziou</author>
+<author pid="10/6448">Matthieu Exbrayat</author>
+<author pid="10/6173">Lionel Martin</author>
+<title>Clustering multi-vues : une approche centralis&#233;e.</title>
+<pages>101-122</pages>
+<year>2011</year>
+<booktitle>Fouille de donn&#233;es complexes</booktitle>
+<ee>http://editions-rnti.fr/?inprocid=1001242</ee>
+<crossref>series/rnti/E21</crossref>
+<url>db/series/rnti/rnti-E21.html#SublemontierCEM11</url>
+</incollection>
+</r>
+<r><inproceedings key="conf/adma/DinhEV10" mdate="2017-05-17">
+<author pid="21/8730">Quang-Thang Dinh</author>
+<author pid="10/6448">Matthieu Exbrayat</author>
+<author pid="v/ChristelVrain">Christel Vrain</author>
+<title>Discriminative Markov Logic Network Structure Learning Based on Propositionalization and <i>chi</i><sup>2</sup>-Test.</title>
+<pages>24-35</pages>
+<year>2010</year>
+<booktitle>ADMA (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-17316-5_3</ee>
+<crossref>conf/adma/2010-1</crossref>
+<url>db/conf/adma/adma2010-1.html#DinhEV10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/f-egc/MartinECM10" mdate="2017-05-21">
+<author pid="10/6173">Lionel Martin</author>
+<author pid="10/6448">Matthieu Exbrayat</author>
+<author pid="61/545">Guillaume Cleuziou</author>
+<author pid="34/4689">Fr&#233;d&#233;ric Moal</author>
+<title>Interactive and Progressive Constraint Definition for Dimensionality Reduction and Visualization.</title>
+<pages>121-136</pages>
+<year>2010</year>
+<booktitle>EGC (best of volume)</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-25838-1_7</ee>
+<crossref>conf/f-egc/2010sci</crossref>
+<url>db/conf/f-egc/sci2010.html#MartinECM10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/f-egc/MartinCEM10" mdate="2024-11-06">
+<author pid="10/6173">Lionel Martin</author>
+<author pid="61/545">Guillaume Cleuziou</author>
+<author pid="10/6448">Matthieu Exbrayat</author>
+<author pid="34/4689">Fr&#233;d&#233;ric Moal</author>
+<title>Int&#233;gration interactive de contraintes pour la r&#233;duction de dimensions et la visualisation.</title>
+<pages>369-380</pages>
+<year>2010</year>
+<booktitle>EGC</booktitle>
+<crossref>conf/f-egc/2010</crossref>
+<url>db/conf/f-egc/egc2010.html#MartinCEM10</url>
+<ee type="oa">https://editions-rnti.fr/?inprocid=1001320</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icmla/DinhEV10" mdate="2023-03-24">
+<author pid="21/8730">Quang-Thang Dinh</author>
+<author pid="10/6448">Matthieu Exbrayat</author>
+<author pid="v/ChristelVrain">Christel Vrain</author>
+<title>Heuristic Method for Discriminative Structure Learning of Markov Logic Networks.</title>
+<pages>163-168</pages>
+<year>2010</year>
+<booktitle>ICMLA</booktitle>
+<ee>https://doi.org/10.1109/ICMLA.2010.31</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICMLA.2010.31</ee>
+<crossref>conf/icmla/2010</crossref>
+<url>db/conf/icmla/icmla2010.html#DinhEV10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/stairs/DinhEV10" mdate="2017-05-23">
+<author pid="21/8730">Quang-Thang Dinh</author>
+<author pid="10/6448">Matthieu Exbrayat</author>
+<author pid="v/ChristelVrain">Christel Vrain</author>
+<title>Generative Structure Learning for Markov Logic Networks.</title>
+<pages>63-75</pages>
+<year>2010</year>
+<booktitle>STAIRS</booktitle>
+<ee>https://doi.org/10.3233/978-1-60750-676-8-63</ee>
+<crossref>conf/stairs/2010</crossref>
+<url>db/conf/stairs/stairs2010.html#DinhEV10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/f-egc/ExbrayatM09" mdate="2024-11-06">
+<author pid="10/6448">Matthieu Exbrayat</author>
+<author pid="10/6173">Lionel Martin</author>
+<title>Explorer3D: classification et visualisation de donn&#233;es.</title>
+<pages>489</pages>
+<year>2009</year>
+<booktitle>EGC</booktitle>
+<crossref>conf/f-egc/2009</crossref>
+<url>db/conf/f-egc/egc2009.html#ExbrayatM09</url>
+<ee type="oa">https://editions-rnti.fr/?inprocid=1000817</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdm/CleuziouEMS09" mdate="2023-03-24">
+<author pid="61/545">Guillaume Cleuziou</author>
+<author pid="10/6448">Matthieu Exbrayat</author>
+<author pid="10/6173">Lionel Martin</author>
+<author pid="74/1356">Jacques-Henri Sublemontier</author>
+<title>CoFKM: A Centralized Method for Multiple-View Clustering.</title>
+<pages>752-757</pages>
+<year>2009</year>
+<booktitle>ICDM</booktitle>
+<ee>https://doi.org/10.1109/ICDM.2009.138</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDM.2009.138</ee>
+<crossref>conf/icdm/2009</crossref>
+<url>db/conf/icdm/icdm2009.html#CleuziouEMS09</url>
+</inproceedings>
+</r>
+<r><article key="journals/ppl/BamhaE03" mdate="2020-03-24">
+<author pid="63/1512">Mostafa Bamha</author>
+<author pid="10/6448">Matthieu Exbrayat</author>
+<title>Pipelining a Skew-Insensitive Parallel Join Algorithm.</title>
+<pages>317-328</pages>
+<year>2003</year>
+<volume>13</volume>
+<journal>Parallel Process. Lett.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1142/S0129626403001306</ee>
+<url>db/journals/ppl/ppl13.html#BamhaE03</url>
+</article>
+</r>
+<r><inproceedings key="conf/parco/BahmaE03" mdate="2005-05-12">
+<author pid="63/1512">Mostafa Bamha</author>
+<author pid="10/6448">Matthieu Exbrayat</author>
+<title>Pipelined parallelism for multi-join queries on shared nothing machines.</title>
+<pages>47-54</pages>
+<year>2003</year>
+<crossref>conf/parco/2003</crossref>
+<booktitle>PARCO</booktitle>
+<url>db/conf/parco/parco2003.html#BahmaE03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ipps/ExbrayatB00" mdate="2017-05-24">
+<author pid="10/6448">Matthieu Exbrayat</author>
+<author pid="29/857">Lionel Brunie</author>
+<title>A PC-NOW Based Parallel Extension for a Sequential DBMS.</title>
+<pages>91-100</pages>
+<year>2000</year>
+<crossref>conf/ipps/2000w</crossref>
+<booktitle>IPDPS Workshops</booktitle>
+<ee>https://doi.org/10.1007/3-540-45591-4_10</ee>
+<url>db/conf/ipps/ipdpsW2000.html#ExbrayatB00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pvm/ExbrayatK97" mdate="2017-05-19">
+<author pid="10/6448">Matthieu Exbrayat</author>
+<author pid="k/HaraldKosch">Harald Kosch</author>
+<title>Offering Parallelism to a Sequential Database Management System on a Network of Workstations Using PVM.</title>
+<pages>457-462</pages>
+<year>1997</year>
+<crossref>conf/pvm/1997</crossref>
+<booktitle>PVM/MPI</booktitle>
+<url>db/conf/pvm/pvm1997.html#ExbrayatK97</url>
+<ee>https://doi.org/10.1007/3-540-63697-8_117</ee>
+</inproceedings>
+</r>
+<coauthors n="18" nc="2">
+<co c="0"><na f="b/Bamha:Mostafa" pid="63/1512">Mostafa Bamha</na></co>
+<co c="0"><na f="b/Brahim:Khawla" pid="247/2751">Khawla Brahim</na></co>
+<co c="1"><na f="b/Brunie:Lionel" pid="29/857">Lionel Brunie</na></co>
+<co c="0"><na f="c/Chetouani:Aladine" pid="00/7269">Aladine Chetouani</na></co>
+<co c="0"><na f="c/Cleuziou:Guillaume" pid="61/545">Guillaume Cleuziou</na></co>
+<co c="0"><na f="d/Debroutelle:Teddy" pid="173/8824">Teddy Debroutelle</na></co>
+<co c="0"><na f="d/Dinh:Quang=Thang" pid="21/8730">Quang-Thang Dinh</na></co>
+<co c="0"><na f="f/Flouvat:Fr=eacute=d=eacute=ric" pid="53/1920">Fr&#233;d&#233;ric Flouvat</na></co>
+<co c="-1"><na f="h/Hoan:Mai_Van" pid="138/9436">Mai Van Hoan</na></co>
+<co c="0"><na f="j/Janvier:Romain" pid="36/2604">Romain Janvier</na></co>
+<co c="0"><na f="j/Jesset:S=eacute=bastien" pid="173/8838">S&#233;bastien Jesset</na></co>
+<co c="1"><na f="k/Kosch:Harald" pid="k/HaraldKosch">Harald Kosch</na></co>
+<co c="0"><na f="m/Martin:Lionel" pid="10/6173">Lionel Martin</na></co>
+<co c="0"><na f="m/Martinet:Thibaut" pid="388/7303">Thibaut Martinet</na></co>
+<co c="0"><na f="m/Moal:Fr=eacute=d=eacute=ric" pid="34/4689">Fr&#233;d&#233;ric Moal</na></co>
+<co c="0"><na f="s/Sublemontier:Jacques=Henri" pid="74/1356">Jacques-Henri Sublemontier</na></co>
+<co c="0"><na f="t/Treuillet:Sylvie" pid="09/4564">Sylvie Treuillet</na></co>
+<co c="0"><na f="v/Vrain:Christel" pid="v/ChristelVrain">Christel Vrain</na></co>
+</coauthors>
+</dblpperson>
+

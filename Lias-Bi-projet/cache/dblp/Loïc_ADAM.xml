@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<dblpperson name="Pingsheng Zhu" pid="255/1254" n="1">
+<person key="homepages/255/1254" mdate="2019-12-17">
+<author pid="255/1254">Pingsheng Zhu</author>
+</person>
+<r><article key="journals/access/ZhangZZ19c" mdate="2019-12-19">
+<author orcid="0000-0002-1924-8837" pid="15/91">Jingyi Zhang</author>
+<author orcid="0000-0003-1370-9855" pid="94/6503">Tong Zhao</author>
+<author orcid="0000-0002-5181-769X" pid="255/1254">Pingsheng Zhu</author>
+<title>Analysis Method of Motion Information Driven by Medical Big Data.</title>
+<pages>174189-174199</pages>
+<year>2019</year>
+<volume>7</volume>
+<journal>IEEE Access</journal>
+<ee type="oa">https://doi.org/10.1109/ACCESS.2019.2956803</ee>
+<url>db/journals/access/access7.html#ZhangZZ19c</url>
+</article>
+</r>
+<coauthors n="2" nc="1">
+<co c="0"><na f="z/Zhang:Jingyi" pid="15/91">Jingyi Zhang</na></co>
+<co c="0"><na f="z/Zhao:Tong" pid="94/6503">Tong Zhao</na></co>
+</coauthors>
+</dblpperson>
+

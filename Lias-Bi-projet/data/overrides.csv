@@ -1,0 +1,4 @@
+nom,champ,valeur_corrigee,commentaire
+# Corrections manuelles pour les données non disponibles ou erronées via les API
+# Exemple :
+# Girard Patrick,pid_dblp,g/PatrickGirard0003,Homonyme - PID corrigé manuellement

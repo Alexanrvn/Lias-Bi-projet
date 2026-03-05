@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+<dblpperson name="Jo&#227;o Paulo Pe&#231;anha" pid="31/7785" n="4">
+<person key="homepages/31/7785" mdate="2011-06-20">
+<author pid="31/7785">Jo&#227;o Paulo Pe&#231;anha</author>
+</person>
+<r><inproceedings key="conf/iccS/PecanhaFVLD13" mdate="2025-11-02">
+<author pid="31/7785">Jo&#227;o Paulo Pe&#231;anha</author>
+<author pid="115/4442">Jos&#233; Luiz de Souza Filho</author>
+<author orcid="0000-0003-3356-6679" pid="10/4250">Marcelo Bernardes Vieira</author>
+<author orcid="0000-0002-7205-9509" pid="09/5624">Marcelo Lobosco</author>
+<author pid="35/7786">Socrates de Oliveira Dantas</author>
+<title>Iterative Method for Edge Length Equalization.</title>
+<pages>481-490</pages>
+<year>2013</year>
+<booktitle>ICCS</booktitle>
+<ee type="oa">https://doi.org/10.1016/j.procs.2013.05.212</ee>
+<crossref>conf/iccS/2013</crossref>
+<url>db/conf/iccS/iccS2013.html#PecanhaFVLD13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccsa/CamposPPALVD11" mdate="2020-10-25">
+<author pid="34/7787">Alessandra Matos Campos</author>
+<author pid="31/7785">Jo&#227;o Paulo Pe&#231;anha</author>
+<author pid="05/7787">Patricia Pereira Pampanelli</author>
+<author pid="50/9765">Rafael B. de Almeida</author>
+<author orcid="0000-0002-7205-9509" pid="09/5624">Marcelo Lobosco</author>
+<author orcid="0000-0003-3356-6679" pid="10/4250">Marcelo Bernardes Vieira</author>
+<author pid="35/7786">Socrates de Oliveira Dantas</author>
+<title>Parallel Implementation of the Heisenberg Model Using Monte Carlo on GPGPU.</title>
+<pages>654-667</pages>
+<year>2011</year>
+<booktitle>ICCSA (3)</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-21931-3_50</ee>
+<crossref>conf/iccsa/2011-3</crossref>
+<url>db/conf/iccsa/iccsa2011-3.html#CamposPPALVD11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccsa/LeonelPV11" mdate="2020-10-25">
+<author pid="82/9763">Gildo de Almeida Leonel</author>
+<author pid="31/7785">Jo&#227;o Paulo Pe&#231;anha</author>
+<author orcid="0000-0003-3356-6679" pid="10/4250">Marcelo Bernardes Vieira</author>
+<title>A Viewer-Dependent Tensor Field Visualization Using Particle Tracing.</title>
+<pages>690-705</pages>
+<year>2011</year>
+<booktitle>ICCSA (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-21928-3_51</ee>
+<crossref>conf/iccsa/2011-1</crossref>
+<url>db/conf/iccsa/iccsa2011-1.html#LeonelPV11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sibgrapi/PampanelliPCVLD09" mdate="2023-03-24">
+<author pid="05/7787">Patricia Pereira Pampanelli</author>
+<author pid="31/7785">Jo&#227;o Paulo Pe&#231;anha</author>
+<author pid="34/7787">Alessandra Matos Campos</author>
+<author orcid="0000-0003-3356-6679" pid="10/4250">Marcelo Bernardes Vieira</author>
+<author orcid="0000-0002-7205-9509" pid="09/5624">Marcelo Lobosco</author>
+<author pid="35/7786">Socrates de Oliveira Dantas</author>
+<title>Rectangular Hexagonal Mesh Generation for Parametric Modeling.</title>
+<pages>120-125</pages>
+<year>2009</year>
+<booktitle>SIBGRAPI</booktitle>
+<ee>https://doi.org/10.1109/SIBGRAPI.2009.26</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SIBGRAPI.2009.26</ee>
+<crossref>conf/sibgrapi/2009</crossref>
+<url>db/conf/sibgrapi/sibgrapi2009.html#PampanelliPCVLD09</url>
+</inproceedings>
+</r>
+<coauthors n="8" nc="1">
+<co c="0"><na f="a/Almeida:Rafael_B=_de" pid="50/9765">Rafael B. de Almeida</na></co>
+<co c="0"><na f="c/Campos:Alessandra_Matos" pid="34/7787">Alessandra Matos Campos</na></co>
+<co c="0"><na f="d/Dantas:Socrates_de_Oliveira" pid="35/7786">Socrates de Oliveira Dantas</na></co>
+<co c="0"><na f="f/Filho:Jos=eacute=_Luiz_de_Souza" pid="115/4442">Jos&#233; Luiz de Souza Filho</na></co>
+<co c="0"><na f="l/Leonel:Gildo_de_Almeida" pid="82/9763">Gildo de Almeida Leonel</na></co>
+<co c="0"><na f="l/Lobosco:Marcelo" pid="09/5624">Marcelo Lobosco</na></co>
+<co c="0"><na f="p/Pampanelli:Patricia_Pereira" pid="05/7787">Patricia Pereira Pampanelli</na></co>
+<co c="0"><na f="v/Vieira:Marcelo_Bernardes" pid="10/4250">Marcelo Bernardes Vieira</na></co>
+</coauthors>
+</dblpperson>
+
